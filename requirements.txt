@@ -1,8 +1,7 @@
-# Dependencies
-
 ipykernel
+matplotlib
+numpy
+openpyxl
 pandas
 scikit-learn
-matplotlib
 seaborn
-openpyxl
