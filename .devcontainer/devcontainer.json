@@ -4,7 +4,14 @@
     "context": "..",
     "dockerfile": "Dockerfile",
     "args": { "VARIANT": "3.11" }
-  }
+},
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"GitHub.copilot"
+		]
+	}
+}
 
   // Features to add to the dev container. More info: https://containers.dev/features.
   // "features": {},
