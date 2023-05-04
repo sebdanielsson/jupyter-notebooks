@@ -1,0 +1,29 @@
+The last few years—even the last few months—have seen artificial intelligence (AI) breakthroughs come at a dizzying pace. AI that can generate paragraphs of text as well as a human, create realistic imagery and video from text, or perform hundreds of different tasks has captured the public’s attention. People see AI’s high level of performance, creative potential and, in some cases, the ability for anyone to use them with little to no technical expertise. This wave of AI is attributable to what are known as foundation models.
+
+What are foundation models?
+
+As the name suggests, foundation models can be the foundation for many kinds of AI systems. Using machine learning techniques, these models apply information learned about one situation to another situation. While the amount of data required is considerably more than the average person needs to transfer understanding from one task to another, the result is relatively similar. For example, once you spend enough time learning how to cook, without too much effort you can figure out how to cook almost any dish, and even invent new ones.
+
+This wave of AI looks to replace the task-specific models that have dominated the landscape. And the potential benefits of foundation models to the economy and society are vast. For example, identifying candidate molecules for novel drugs or identifying suitable materials for new battery technologies requires sophisticated knowledge about chemistry and time-intensive screening and evaluation of different molecules. IBM’s MoLFormer-XL, a foundation model trained on data about 1.1 billion molecules, helps scientists rapidly predict the 3D structure of molecules and infer their physical properties, such as their ability to cross the blood-brain barrier. IBM recently announced a partnership with Moderna to use MoLFormer models to help design better mRNA medicines. IBM also partners with NASA to analyze geospatial satellite data—to better inform efforts to fight climate change—using foundation models.
+
+However, there are also concerns about their potential to cause harm in new or unforeseen ways. Some risks of using foundation models are like those of other kinds of AI, like risks related to bias. But they can also pose new risks and amplify existing risks, such as hallucination, the capability of generation of false yet plausible-seeming content. These concerns are prompting the public and policymakers to question whether existing regulatory frameworks can protect against these potential harms.
+
+What should policymakers do?
+
+Policymakers should take productive steps to address these concerns, recognizing that a risk and context-based approach to AI regulation remains the most effective strategy to minimize the risks of all AI, including those posed by foundation models.
+
+The best way policymakers can meaningfully address concerns related to foundation models is to ensure any AI policy framework is risk-based and appropriately focused on the deployers of AI systems. Read the IBM Policy Lab’s A Policymaker’s Guide to Foundation Models—a new white paper from us, IBM’s Chief Privacy & Trust Officer Christina Montgomery, AI Ethics Global Leader Francesca Rossi, and IBM Policy Lab Senior Fellow Joshua New—to understand why IBM is asking policymakers to:
+
+
+Promote transparency
+Leverage flexible approaches
+Differentiate between different kinds of business models
+Carefully study emerging risks
+
+
+Given the incredible benefits of foundation models, effectively protecting the economy and society from its potential risks will help to ensure that the technology is a force for good. Policymakers should swiftly act to better understand and mitigate the risks of foundation models while still ensuring the approach to governing AI remains risk-based and technology neutral. 
+
+Related categories
+
+Tags
+

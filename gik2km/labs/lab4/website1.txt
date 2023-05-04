@@ -1,0 +1,108 @@
+What is deep learning?
+
+Deep learning is a type of machine learning and artificial intelligence (AI) that imitates the way humans gain certain types of knowledge. Deep learning is an important element of data science, which includes statistics and predictive modeling. It is extremely beneficial to data scientists who are tasked with collecting, analyzing and interpreting large amounts of data; deep learning makes this process faster and easier.
+
+At its simplest, deep learning can be thought of as a way to automate predictive analytics. While traditional machine learning algorithms are linear, deep learning algorithms are stacked in a hierarchy of increasing complexity and abstraction.
+
+To understand deep learning, imagine a toddler whose first word is dog. The toddler learns what a dog is -- and is not -- by pointing to objects and saying the word dog. The parent says, "Yes, that is a dog," or, "No, that is not a dog." As the toddler continues to point to objects, he becomes more aware of the features that all dogs possess. What the toddler does, without knowing it, is clarify a complex abstraction -- the concept of dog -- by building a hierarchy in which each level of abstraction is created with knowledge that was gained from the preceding layer of the hierarchy.
+
+How deep learning works
+
+Computer programs that use deep learning go through much the same process as the toddler learning to identify the dog. Each algorithm in the hierarchy applies a nonlinear transformation to its input and uses what it learns to create a statistical model as output. Iterations continue until the output has reached an acceptable level of accuracy. The number of processing layers through which data must pass is what inspired the label deep.
+
+This article is part of
+
+In-depth guide to machine learning in the enterprise
+
+Which also includes:
+
+Learn the business value of AI's various techniques
+
+10 common uses for machine learning applications in business
+
+6 ways to reduce different types of bias in machine learning
+
+Download this entire guide for FREE now!
+
+In traditional machine learning, the learning process is supervised, and the programmer has to be extremely specific when telling the computer what types of things it should be looking for to decide if an image contains a dog or does not contain a dog. This is a laborious process called feature extraction, and the computer's success rate depends entirely upon the programmer's ability to accurately define a feature set for dog. The advantage of deep learning is the program builds the feature set by itself without supervision. Unsupervised learning is not only faster, but it is usually more accurate.
+
+Initially, the computer program might be provided with training data -- a set of images for which a human has labeled each image dog or not dog with metatags. The program uses the information it receives from the training data to create a feature set for dog and build a predictive model. In this case, the model the computer first creates might predict that anything in an image that has four legs and a tail should be labeled dog. Of course, the program is not aware of the labels four legs or tail. It will simply look for patterns of pixels in the digital data. With each iteration, the predictive model becomes more complex and more accurate.
+
+Unlike the toddler, who will take weeks or even months to understand the concept of dog, a computer program that uses deep learning algorithms can be shown a training set and sort through millions of images, accurately identifying which images have dogs in them within a few minutes.
+
+To achieve an acceptable level of accuracy, deep learning programs require access to immense amounts of training data and processing power, neither of which were easily available to programmers until the era of big data and cloud computing. Because deep learning programming can create complex statistical models directly from its own iterative output, it is able to create accurate predictive models from large quantities of unlabeled, unstructured data. This is important as the internet of things (IoT) continues to become more pervasive because most of the data humans and machines create is unstructured and is not labeled.
+
+Deep learning methods
+
+Various methods can be used to create strong deep learning models. These techniques include learning rate decay, transfer learning, training from scratch and dropout.
+
+Learning rate decay. The learning rate is a hyperparameter -- a factor that defines the system or set conditions for its operation prior to the learning process -- that controls how much change the model experiences in response to the estimated error every time the model weights are altered. Learning rates that are too high may result in unstable training processes or the learning of a suboptimal set of weights. Learning rates that are too small may produce a lengthy training process that has the potential to get stuck.
+
+The learning rate decay method -- also called learning rate annealing or adaptive learning rates -- is the process of adapting the learning rate to increase performance and reduce training time. The easiest and most common adaptations of learning rate during training include techniques to reduce the learning rate over time.
+
+Transfer learning. This process involves perfecting a previously trained model; it requires an interface to the internals of a preexisting network. First, users feed the existing network new data containing previously unknown classifications. Once adjustments are made to the network, new tasks can be performed with more specific categorizing abilities. This method has the advantage of requiring much less data than others, thus reducing computation time to minutes or hours.
+
+Training from scratch. This method requires a developer to collect a large labeled data set and configure a network architecture that can learn the features and model. This technique is especially useful for new applications, as well as applications with a large number of output categories. However, overall, it is a less common approach, as it requires inordinate amounts of data, causing training to take days or weeks.
+
+Dropout. This method attempts to solve the problem of overfitting in networks with large amounts of parameters by randomly dropping units and their connections from the neural network during training. It has been proven that the dropout method can improve the performance of neural networks on supervised learning tasks in areas such as speech recognition, document classification and computational biology.
+
+Deep learning neural networks?
+
+A type of advanced machine learning algorithm, known as an artificial neural network, underpins most deep learning models. As a result, deep learning may sometimes be referred to as deep neural learning or deep neural networking.
+
+Neural networks come in several different forms, including recurrent neural networks, convolutional neural networks, artificial neural networks and feedforward neural networks, and each has benefits for specific use cases. However, they all function in somewhat similar ways -- by feeding data in and letting the model figure out for itself whether it has made the right interpretation or decision about a given data element.
+
+Neural networks involve a trial-and-error process, so they need massive amounts of data on which to train. It's no coincidence neural networks became popular only after most enterprises embraced big data analytics and accumulated large stores of data. Because the model's first few iterations involve somewhat educated guesses on the contents of an image or parts of speech, the data used during the training stage must be labeled so the model can see if its guess was accurate. This means, though many enterprises that use big data have large amounts of data, unstructured data is less helpful. Unstructured data can only be analyzed by a deep learning model once it has been trained and reaches an acceptable level of accuracy, but deep learning models can't train on unstructured data.
+
+Deep learning examples
+
+Because deep learning models process information in ways similar to the human brain, they can be applied to many tasks people do. Deep learning is currently used in most common image recognition tools, natural language processing (NLP) and speech recognition software. These tools are starting to appear in applications as diverse as self-driving cars and language translation services.
+
+Use cases today for deep learning include all types of big data analytics applications, especially those focused on NLP, language translation, medical diagnosis, stock market trading signals, network security and image recognition.
+
+Specific fields in which deep learning is currently being used include the following:
+
+Customer experience (CX). Deep learning models are already being used for chatbots. And, as it continues to mature, deep learning is expected to be implemented in various businesses to improve CX and increase customer satisfaction.
+
+Text generation. Machines are being taught the grammar and style of a piece of text and are then using this model to automatically create a completely new text matching the proper spelling, grammar and style of the original text.
+
+Aerospace and military. Deep learning is being used to detect objects from satellites that identify areas of interest, as well as safe or unsafe zones for troops.
+
+Industrial automation. Deep learning is improving worker safety in environments like factories and warehouses by providing services that automatically detect when a worker or object is getting too close to a machine.
+
+Adding color. Color can be added to black-and-white photos and videos using deep learning models. In the past, this was an extremely time-consuming, manual process.
+
+Medical research. Cancer researchers have started implementing deep learning into their practice as a way to automatically detect cancer cells.
+
+Computer vision. Deep learning has greatly enhanced computer vision, providing computers with extreme accuracy for object detection and image classification, restoration and segmentation.
+
+Limitations and challenges
+
+The biggest limitation of deep learning models is they learn through observations. This means they only know what was in the data on which they trained. If a user has a small amount of data or it comes from one specific source that is not necessarily representative of the broader functional area, the models will not learn in a way that is generalizable.
+
+The issue of biases is also a major problem for deep learning models. If a model trains on data that contains biases, the model will reproduce those biases in its predictions. This has been a vexing problem for deep learning programmers because models learn to differentiate based on subtle variations in data elements. Often, the factors it determines are important are not made explicitly clear to the programmer. This means, for example, a facial recognition model might make determinations about people's characteristics based on things like race or gender without the programmer being aware.
+
+The learning rate can also become a major challenge to deep learning models. If the rate is too high, then the model will converge too quickly, producing a less-than-optimal solution. If the rate is too low, then the process may get stuck, and it will be even harder to reach a solution.
+
+The hardware requirements for deep learning models can also create limitations. Multicore high-performing graphics processing units (GPUs) and other similar processing units are required to ensure improved efficiency and decreased time consumption. However, these units are expensive and use large amounts of energy. Other hardware requirements include random access memory and a hard disk drive (HDD) or RAM-based solid-state drive (SSD).
+
+Other limitations and challenges include the following:
+
+Deep learning requires large amounts of data. Furthermore, the more powerful and accurate models will need more parameters, which, in turn, require more data.
+
+Once trained, deep learning models become inflexible and cannot handle multitasking. They can deliver efficient and accurate solutions but only to one specific problem. Even solving a similar problem would require retraining the system.
+
+Any application that requires reasoning -- such as programming or applying the scientific method -- long-term planning and algorithmlike data manipulation is completely beyond what current deep learning techniques can do, even with large data.
+
+Deep learning vs. machine learning
+
+Deep learning is a subset of machine learning that differentiates itself through the way it solves problems. Machine learning requires a domain expert to identify most applied features. On the other hand, deep learning understands features incrementally, thus eliminating the need for domain expertise. This makes deep learning algorithms take much longer to train than machine learning algorithms, which only need a few seconds to a few hours. However, the reverse is true during testing. Deep learning algorithms take much less time to run tests than machine learning algorithms, whose test time increases along with the size of the data.
+
+Furthermore, machine learning does not require the same costly, high-end machines and high-performing GPUs that deep learning does.
+
+In the end, many data scientists choose traditional machine learning over deep learning due to its superior interpretability, or the ability to make sense of the solutions. Machine learning algorithms are also preferred when the data is small.
+
+Instances where deep learning becomes preferable include situations where there is a large amount of data, a lack of domain understanding for feature introspection, or complex problems, such as speech recognition and NLP.
+
+For more about related topics, like supervised learning, unsupervised learning and reinforcement learning, follow the links to our other definitions of those concepts.
+
