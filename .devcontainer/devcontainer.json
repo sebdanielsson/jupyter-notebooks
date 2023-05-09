@@ -8,6 +8,7 @@
 "customizations": {
 	"vscode": {
 		"extensions": [
+      "ms-toolsai.jupyter",
 			"GitHub.copilot"
 		]
 	}
