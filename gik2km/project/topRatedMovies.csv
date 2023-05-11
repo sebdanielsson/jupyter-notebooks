@@ -1,101 +1,101 @@
 tmdb_id,title,year,runtime,rating,genres
-"238", "The Godfather", 1972, 175, 87, "['Drama', 'Crime']"
-"278", "The Shawshank Redemption", 1994, 142, 87, "['Drama', 'Crime']"
-"240", "The Godfather Part II", 1974, 202, 86, "['Drama', 'Crime']"
-"424", "Schindler's List", 1993, 195, 86, "['Drama', 'History', 'War']"
-"19404", "Dilwale Dulhania Le Jayenge", 1995, 190, 86, "['Comedy', 'Drama', 'Romance']"
-"129", "Spirited Away", 2001, 125, 85, "['Animation', 'Family', 'Fantasy']"
-"389", "12 Angry Men", 1957, 97, 85, "['Drama']"
-"372058", "Your Name.", 2016, 106, 85, "['Romance', 'Animation', 'Drama']"
-"496243", "Parasite", 2019, 133, 85, "['Comedy', 'Thriller', 'Drama']"
-"155", "The Dark Knight", 2008, 152, 85, "['Drama', 'Action', 'Crime', 'Thriller']"
-"497", "The Green Mile", 1999, 189, 85, "['Fantasy', 'Drama', 'Crime']"
-"680", "Pulp Fiction", 1994, 154, 85, "['Thriller', 'Crime']"
-"429", "The Good, the Bad and the Ugly", 1966, 161, 85, "['Western']"
-"13", "Forrest Gump", 1994, 142, 85, "['Comedy', 'Drama', 'Romance']"
-"122", "The Lord of the Rings: The Return of the King", 2003, 201, 85, "['Adventure', 'Fantasy', 'Action']"
-"372754", "Dou kyu sei ā Classmates", 2016, 61, 85, "['Romance', 'Animation']"
-"995133", "The Boy, the Mole, the Fox and the Horse", 2022, 34, 85, "['Animation', 'Family', 'Adventure', 'Fantasy']"
-"769", "GoodFellas", 1990, 145, 85, "['Drama', 'Crime']"
-"346", "Seven Samurai", 1954, 207, 85, "['Action', 'Drama']"
-"696374", "Gabriel's Inferno", 2020, 122, 85, "['Romance']"
-"11216", "Cinema Paradiso", 1988, 124, 85, "['Drama', 'Romance']"
-"637", "Life Is Beautiful", 1997, 116, 85, "['Comedy', 'Drama']"
-"12477", "Grave of the Fireflies", 1988, 89, 84, "['Animation', 'Drama', 'War']"
-"311", "Once Upon a Time in America", 1984, 229, 84, "['Drama', 'Crime']"
-"539", "Psycho", 1960, 109, 84, "['Horror', 'Drama', 'Thriller']"
-"724089", "Gabriel's Inferno: Part II", 2020, 105, 84, "['Romance']"
-"611291", "Bring the Soul: The Movie", 2019, 105, 84, "['Music', 'Documentary']"
-"550", "Fight Club", 1999, 139, 84, "['Drama', 'Thriller', 'Comedy']"
-"667257", "Impossible Things", 2021, 88, 84, "['Family', 'Drama']"
-"598", "City of God", 2002, 130, 84, "['Drama', 'Crime']"
-"510", "One Flew Over the Cuckoo's Nest", 1975, 133, 84, "['Drama']"
-"761053", "Gabriel's Inferno: Part III", 2020, 105, 84, "['Romance', 'Comedy']"
-"14537", "Harakiri", 1962, 135, 84, "['Action', 'Drama', 'History']"
-"324857", "Spider-Man: Into the Spider-Verse", 2018, 117, 84, "['Action', 'Adventure', 'Animation', 'Science Fiction']"
-"4935", "Howl's Moving Castle", 2004, 119, 84, "['Fantasy', 'Animation', 'Adventure']"
-"157336", "Interstellar", 2014, 169, 84, "['Adventure', 'Drama', 'Science Fiction']"
-"378064", "A Silent Voice: The Movie", 2016, 130, 84, "['Animation', 'Drama']"
-"120", "The Lord of the Rings: The Fellowship of the Ring", 2001, 179, 84, "['Adventure', 'Fantasy', 'Action']"
-"1891", "The Empire Strikes Back", 1980, 124, 84, "['Adventure', 'Action', 'Science Fiction']"
-"92321", "Hotarubi no Mori e", 2011, 45, 84, "['Romance', 'Animation', 'Fantasy']"
-"40096", "A Dog's Will", 2000, 104, 84, "['Comedy', 'Drama', 'Fantasy']"
-"164558", "One Direction: This Is Us", 2013, 92, 84, "['Documentary', 'Music']"
-"423", "The Pianist", 2002, 150, 84, "['Drama', 'War']"
-"121", "The Lord of the Rings: The Two Towers", 2002, 179, 84, "['Adventure', 'Fantasy', 'Action']"
-"244786", "Whiplash", 2014, 107, 84, "['Drama', 'Music']"
-"553512", "Burn the Stage: The Movie", 2018, 85, 84, "['Music']"
-"18491", "Neon Genesis Evangelion: The End of Evangelion", 1997, 87, 84, "['Animation', 'Science Fiction', 'Action']"
-"807", "Se7en", 1995, 127, 84, "['Crime', 'Mystery', 'Thriller']"
-"652837", "Josee, the Tiger and the Fish", 2020, 98, 84, "['Animation', 'Drama', 'Romance']"
-"27205", "Inception", 2010, 148, 84, "['Action', 'Science Fiction', 'Adventure']"
-"599", "Sunset Boulevard", 1950, 110, 84, "['Drama']"
-"567", "Rear Window", 1954, 112, 84, "['Thriller', 'Mystery']"
-"255709", "Hope", 2013, 122, 84, "['Drama']"
-"73", "American History X", 1998, 119, 84, "['Drama']"
-"851644", "20th Century Girl", 2022, 119, 83, "['Romance', 'Drama']"
-"3782", "Ikiru", 1952, 143, 83, "['Drama']"
-"914", "The Great Dictator", 1940, 125, 83, "['Comedy', 'War']"
-"274", "The Silence of the Lambs", 1991, 119, 83, "['Crime', 'Drama', 'Thriller']"
-"128", "Princess Mononoke", 1997, 134, 83, "['Adventure', 'Fantasy', 'Animation']"
-"901", "City Lights", 1931, 87, 83, "['Comedy', 'Romance', 'Drama']"
-"12493", "High and Low", 1963, 142, 83, "['Crime', 'Drama', 'Mystery', 'Thriller']"
-"533514", "Violet Evergarden: The Movie", 2020, 140, 83, "['Animation', 'Fantasy', 'Romance', 'Drama']"
-"101", "Léon: The Professional", 1994, 111, 83, "['Crime', 'Drama', 'Action']"
-"644479", "Dedicated to my ex", 2019, 94, 83, "['Drama', 'Comedy']"
-"207", "Dead Poets Society", 1989, 128, 83, "['Drama']"
-"105", "Back to the Future", 1985, 116, 83, "['Adventure', 'Comedy', 'Science Fiction']"
-"568300", "BTS World Tour: Love Yourself in Seoul", 2019, 113, 83, "['Music']"
-"3082", "Modern Times", 1936, 87, 83, "['Comedy', 'Drama']"
-"527641", "Five Feet Apart", 2019, 116, 83, "['Romance', 'Drama']"
-"20334", "The Shop Around the Corner", 1940, 99, 83, "['Comedy', 'Drama', 'Romance']"
-"630566", "Clouds", 2020, 121, 83, "['Music', 'Drama', 'Romance']"
-"25237", "Come and See", 1985, 142, 83, "['Drama', 'War']"
-"335", "Once Upon a Time in the West", 1968, 166, 83, "['Drama', 'Western']"
-"447362", "Life in a Year", 2020, 107, 83, "['Drama', 'Romance']"
-"441130", "Wolfwalkers", 2020, 103, 83, "['Animation', 'Family', 'Adventure', 'Fantasy']"
-"16672", "Woman in the Dunes", 1964, 147, 83, "['Drama', 'Thriller']"
-"315162", "Puss in Boots: The Last Wish", 2022, 103, 83, "['Animation', 'Family', 'Fantasy', 'Adventure', 'Comedy', 'Drama']"
-"361743", "Top Gun: Maverick", 2022, 131, 83, "['Action', 'Drama']"
-"283566", "Evangelion: 3.0+1.0 Thrice Upon a Time", 2021, 155, 83, "['Animation', 'Action', 'Science Fiction', 'Drama']"
-"29259", "Le Trou", 1960, 132, 83, "['Crime', 'Drama', 'Thriller', 'History']"
-"10494", "Perfect Blue", 1997, 81, 83, "['Animation', 'Thriller']"
-"28", "Apocalypse Now", 1979, 147, 83, "['Drama', 'War']"
-"10376", "The Legend of 1900", 1998, 170, 83, "['Drama', 'Music', 'Romance']"
-"637920", "Miracle in Cell No. 7", 2019, 132, 83, "['Drama']"
-"618344", "Justice League Dark: Apokolips War", 2020, 90, 83, "['Animation', 'Action', 'Science Fiction']"
-"975", "Paths of Glory", 1957, 88, 83, "['Drama', 'War']"
-"740996", "BLACKPINK: Light Up the Sky", 2020, 79, 83, "['Documentary', 'Music']"
-"632632", "Given", 2020, 60, 83, "['Animation', 'Drama', 'Music', 'Romance']"
-"537061", "Steven Universe: The Movie", 2019, 82, 83, "['TV Movie', 'Animation', 'Science Fiction', 'Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Music']"
-"77338", "The Intouchables", 2011, 113, 83, "['Drama', 'Comedy']"
-"447365", "Guardians of the Galaxy Volume 3", 2023, 150, 83, "['Science Fiction', 'Adventure', 'Action']"
-"265177", "Mommy", 2014, 138, 83, "['Drama']"
-"670", "Oldboy", 2003, 120, 83, "['Drama', 'Thriller', 'Mystery', 'Action']"
-"299534", "Avengers: Endgame", 2019, 181, 83, "['Adventure', 'Science Fiction', 'Action']"
-"299536", "Avengers: Infinity War", 2018, 149, 83, "['Adventure', 'Action', 'Science Fiction']"
-"508965", "Klaus", 2019, 96, 83, "['Animation', 'Family', 'Adventure', 'Comedy', 'Fantasy']"
-"575813", "Better Days", 2019, 135, 83, "['Drama']"
-"8587", "The Lion King", 1994, 89, 83, "['Family', 'Animation', 'Drama']"
-"1585", "It's a Wonderful Life", 1946, 130, 83, "['Drama', 'Family', 'Fantasy']"
-"635302", "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train", 2020, 117, 83, "['Animation', 'Action', 'Adventure', 'Fantasy', 'Thriller']"
+"238", "The Godfather", 1972, 175, 87, Drama|Crime
+"278", "The Shawshank Redemption", 1994, 142, 87, Drama|Crime
+"240", "The Godfather Part II", 1974, 202, 86, Drama|Crime
+"424", "Schindler's List", 1993, 195, 86, Drama|History|War
+"19404", "Dilwale Dulhania Le Jayenge", 1995, 190, 86, Comedy|Drama|Romance
+"129", "Spirited Away", 2001, 125, 85, Animation|Family|Fantasy
+"389", "12 Angry Men", 1957, 97, 85, Drama
+"372058", "Your Name.", 2016, 106, 85, Romance|Animation|Drama
+"496243", "Parasite", 2019, 133, 85, Comedy|Thriller|Drama
+"155", "The Dark Knight", 2008, 152, 85, Drama|Action|Crime|Thriller
+"497", "The Green Mile", 1999, 189, 85, Fantasy|Drama|Crime
+"680", "Pulp Fiction", 1994, 154, 85, Thriller|Crime
+"429", "The Good, the Bad and the Ugly", 1966, 161, 85, Western
+"13", "Forrest Gump", 1994, 142, 85, Comedy|Drama|Romance
+"122", "The Lord of the Rings: The Return of the King", 2003, 201, 85, Adventure|Fantasy|Action
+"372754", "Dou kyu sei ā Classmates", 2016, 61, 85, Romance|Animation
+"995133", "The Boy, the Mole, the Fox and the Horse", 2022, 34, 85, Animation|Family|Adventure|Fantasy
+"769", "GoodFellas", 1990, 145, 85, Drama|Crime
+"346", "Seven Samurai", 1954, 207, 85, Action|Drama
+"696374", "Gabriel's Inferno", 2020, 122, 85, Romance
+"11216", "Cinema Paradiso", 1988, 124, 85, Drama|Romance
+"637", "Life Is Beautiful", 1997, 116, 85, Comedy|Drama
+"12477", "Grave of the Fireflies", 1988, 89, 84, Animation|Drama|War
+"311", "Once Upon a Time in America", 1984, 229, 84, Drama|Crime
+"539", "Psycho", 1960, 109, 84, Horror|Drama|Thriller
+"724089", "Gabriel's Inferno: Part II", 2020, 105, 84, Romance
+"611291", "Bring the Soul: The Movie", 2019, 105, 84, Music|Documentary
+"550", "Fight Club", 1999, 139, 84, Drama|Thriller|Comedy
+"667257", "Impossible Things", 2021, 88, 84, Family|Drama
+"598", "City of God", 2002, 130, 84, Drama|Crime
+"510", "One Flew Over the Cuckoo's Nest", 1975, 133, 84, Drama
+"761053", "Gabriel's Inferno: Part III", 2020, 105, 84, Romance|Comedy
+"14537", "Harakiri", 1962, 135, 84, Action|Drama|History
+"324857", "Spider-Man: Into the Spider-Verse", 2018, 117, 84, Action|Adventure|Animation|Science Fiction
+"4935", "Howl's Moving Castle", 2004, 119, 84, Fantasy|Animation|Adventure
+"157336", "Interstellar", 2014, 169, 84, Adventure|Drama|Science Fiction
+"378064", "A Silent Voice: The Movie", 2016, 130, 84, Animation|Drama
+"120", "The Lord of the Rings: The Fellowship of the Ring", 2001, 179, 84, Adventure|Fantasy|Action
+"1891", "The Empire Strikes Back", 1980, 124, 84, Adventure|Action|Science Fiction
+"92321", "Hotarubi no Mori e", 2011, 45, 84, Romance|Animation|Fantasy
+"40096", "A Dog's Will", 2000, 104, 84, Comedy|Drama|Fantasy
+"164558", "One Direction: This Is Us", 2013, 92, 84, Documentary|Music
+"423", "The Pianist", 2002, 150, 84, Drama|War
+"121", "The Lord of the Rings: The Two Towers", 2002, 179, 84, Adventure|Fantasy|Action
+"244786", "Whiplash", 2014, 107, 84, Drama|Music
+"553512", "Burn the Stage: The Movie", 2018, 85, 84, Music
+"18491", "Neon Genesis Evangelion: The End of Evangelion", 1997, 87, 84, Animation|Science Fiction|Action
+"807", "Se7en", 1995, 127, 84, Crime|Mystery|Thriller
+"652837", "Josee, the Tiger and the Fish", 2020, 98, 84, Animation|Drama|Romance
+"27205", "Inception", 2010, 148, 84, Action|Science Fiction|Adventure
+"599", "Sunset Boulevard", 1950, 110, 84, Drama
+"567", "Rear Window", 1954, 112, 84, Thriller|Mystery
+"255709", "Hope", 2013, 122, 84, Drama
+"73", "American History X", 1998, 119, 84, Drama
+"851644", "20th Century Girl", 2022, 119, 83, Romance|Drama
+"3782", "Ikiru", 1952, 143, 83, Drama
+"914", "The Great Dictator", 1940, 125, 83, Comedy|War
+"274", "The Silence of the Lambs", 1991, 119, 83, Crime|Drama|Thriller
+"128", "Princess Mononoke", 1997, 134, 83, Adventure|Fantasy|Animation
+"901", "City Lights", 1931, 87, 83, Comedy|Romance|Drama
+"12493", "High and Low", 1963, 142, 83, Crime|Drama|Mystery|Thriller
+"533514", "Violet Evergarden: The Movie", 2020, 140, 83, Animation|Fantasy|Romance|Drama
+"101", "Léon: The Professional", 1994, 111, 83, Crime|Drama|Action
+"644479", "Dedicated to my ex", 2019, 94, 83, Drama|Comedy
+"207", "Dead Poets Society", 1989, 128, 83, Drama
+"105", "Back to the Future", 1985, 116, 83, Adventure|Comedy|Science Fiction
+"568300", "BTS World Tour: Love Yourself in Seoul", 2019, 113, 83, Music
+"3082", "Modern Times", 1936, 87, 83, Comedy|Drama
+"527641", "Five Feet Apart", 2019, 116, 83, Romance|Drama
+"20334", "The Shop Around the Corner", 1940, 99, 83, Comedy|Drama|Romance
+"630566", "Clouds", 2020, 121, 83, Music|Drama|Romance
+"25237", "Come and See", 1985, 142, 83, Drama|War
+"335", "Once Upon a Time in the West", 1968, 166, 83, Drama|Western
+"447362", "Life in a Year", 2020, 107, 83, Drama|Romance
+"441130", "Wolfwalkers", 2020, 103, 83, Animation|Family|Adventure|Fantasy
+"16672", "Woman in the Dunes", 1964, 147, 83, Drama|Thriller
+"315162", "Puss in Boots: The Last Wish", 2022, 103, 83, Animation|Family|Fantasy|Adventure|Comedy|Drama
+"361743", "Top Gun: Maverick", 2022, 131, 83, Action|Drama
+"283566", "Evangelion: 3.0+1.0 Thrice Upon a Time", 2021, 155, 83, Animation|Action|Science Fiction|Drama
+"29259", "Le Trou", 1960, 132, 83, Crime|Drama|Thriller|History
+"10494", "Perfect Blue", 1997, 81, 83, Animation|Thriller
+"28", "Apocalypse Now", 1979, 147, 83, Drama|War
+"10376", "The Legend of 1900", 1998, 170, 83, Drama|Music|Romance
+"637920", "Miracle in Cell No. 7", 2019, 132, 83, Drama
+"618344", "Justice League Dark: Apokolips War", 2020, 90, 83, Animation|Action|Science Fiction
+"975", "Paths of Glory", 1957, 88, 83, Drama|War
+"740996", "BLACKPINK: Light Up the Sky", 2020, 79, 83, Documentary|Music
+"632632", "Given", 2020, 60, 83, Animation|Drama|Music|Romance
+"537061", "Steven Universe: The Movie", 2019, 82, 83, TV Movie|Animation|Science Fiction|Action|Adventure|Comedy|Drama|Fantasy|Music
+"77338", "The Intouchables", 2011, 113, 83, Drama|Comedy
+"265177", "Mommy", 2014, 138, 83, Drama
+"670", "Oldboy", 2003, 120, 83, Drama|Thriller|Mystery|Action
+"299534", "Avengers: Endgame", 2019, 181, 83, Adventure|Science Fiction|Action
+"447365", "Guardians of the Galaxy Volume 3", 2023, 150, 83, Science Fiction|Adventure|Action
+"299536", "Avengers: Infinity War", 2018, 149, 83, Adventure|Action|Science Fiction
+"508965", "Klaus", 2019, 96, 83, Animation|Family|Adventure|Comedy|Fantasy
+"575813", "Better Days", 2019, 135, 83, Drama
+"8587", "The Lion King", 1994, 89, 83, Family|Animation|Drama
+"1585", "It's a Wonderful Life", 1946, 130, 83, Drama|Family|Fantasy
+"635302", "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train", 2020, 117, 83, Animation|Action|Adventure|Fantasy|Thriller
