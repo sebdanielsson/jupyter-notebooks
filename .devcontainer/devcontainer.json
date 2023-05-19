@@ -8,8 +8,9 @@
 "customizations": {
 	"vscode": {
 		"extensions": [
-      "ms-toolsai.jupyter",
-			"GitHub.copilot"
+			"ms-toolsai.jupyter",
+			"GitHub.copilot",
+			"ms-python.autopep8"
 		]
 	}
 }
