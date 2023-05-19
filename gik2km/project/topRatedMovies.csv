@@ -1,101 +1,501 @@
 tmdb_id;title;year;runtime;rating;cast;genres
-"238";"The Godfather";1972;175;87;Al Pacino|Marlon Brando|James Caan|Richard S. Castellano|Robert Duvall|Sterling Hayden|John Marley|Richard Conte|Diane Keaton;Drama|Crime
-"278";"The Shawshank Redemption";1994;142;87;Tim Robbins|Morgan Freeman|Bob Gunton|William Sadler|Clancy Brown|Gil Bellows|James Whitmore|Mark Rolston|Jeffrey DeMunn;Drama|Crime
-"240";"The Godfather Part II";1974;202;86;Al Pacino|Robert Duvall|Diane Keaton|Robert De Niro|Talia Shire|Morgana King|John Cazale|Marianna Hill|Lee Strasberg;Drama|Crime
-"19404";"Dilwale Dulhania Le Jayenge";1995;190;86;Shah Rukh Khan|Kajol|Amrish Puri|Anupam Kher|Satish Shah|Farida Jalal|Achala Sachdev|Himani Shivpuri|Pooja Ruparel;Comedy|Drama|Romance
-"424";"Schindler's List";1993;195;86;Liam Neeson|Ben Kingsley|Ralph Fiennes|Caroline Goodall|Jonathan Sagall|Embeth Davidtz|Malgorzata Gebel|Shmuel Levy|Mark Ivanir;Drama|History|War
-"129";"Spirited Away";2001;125;85;Rumi Hiiragi|Miyu Irino|Mari Natsuki|Takashi Naito|Yasuko Sawaguchi|Tsunehiko Kamijô|Takehiko Ono|Bunta Sugawara|Akio Nakamura;Animation|Family|Fantasy
-"389";"12 Angry Men";1957;97;85;Martin Balsam|John Fiedler|Lee J. Cobb|E.G. Marshall|Jack Klugman|Edward Binns|Jack Warden|Henry Fonda|Joseph Sweeney;Drama
-"372058";"Your Name.";2016;106;85;Ryunosuke Kamiki|Mone Kamishiraishi|Ryo Narita|Aoi Yuki|Nobunaga Shimazaki|Kaito Ishikawa|Kanon Tani|Masaki Terasoma|Sayaka Ohara;Romance|Animation|Drama
-"496243";"Parasite";2019;133;85;Song Kang-ho|Lee Sun-kyun|Cho Yeo-jeong|Choi Woo-shik|Park So-dam|Lee Jung-eun|Jang Hye-jin|Park Myung-hoon|Jung Ji-so;Comedy|Thriller|Drama
-"155";"The Dark Knight";2008;152;85;Christian Bale|Heath Ledger|Michael Caine|Gary Oldman|Aaron Eckhart|Maggie Gyllenhaal|Morgan Freeman|Nestor Carbonell|Monique Gabriela Curnen;Drama|Action|Crime|Thriller
-"497";"The Green Mile";1999;189;85;Tom Hanks|Michael Clarke Duncan|David Morse|Bonnie Hunt|Michael Jeter|Doug Hutchison|Sam Rockwell|James Cromwell|Barry Pepper;Fantasy|Drama|Crime
-"680";"Pulp Fiction";1994;154;85;John Travolta|Samuel L. Jackson|Uma Thurman|Bruce Willis|Ving Rhames|Harvey Keitel|Eric Stoltz|Tim Roth|Amanda Plummer;Thriller|Crime
-"429";"The Good, the Bad and the Ugly";1966;161;85;Clint Eastwood|Eli Wallach|Lee Van Cleef|Aldo Giuffrè|Luigi Pistilli|Rada Rassimov|Antonio Casale;Western
-"13";"Forrest Gump";1994;142;85;Tom Hanks|Robin Wright|Gary Sinise|Sally Field|Mykelti Williamson|Michael Conner Humphreys|Hanna Hall|Haley Joel Osment|Siobhan Fallon Hogan;Comedy|Drama|Romance
-"372754";"Dou kyu sei ā Classmates";2016;61;85;Kenji Nojima|Hiroshi Kamiya|Hideo Ishikawa;Romance|Animation
-"122";"The Lord of the Rings: The Return of the King";2003;201;85;Elijah Wood|Ian McKellen|Liv Tyler|Viggo Mortensen|Sean Astin|Andy Serkis|Cate Blanchett|John Rhys-Davies|Bernard Hill;Adventure|Fantasy|Action
-"769";"GoodFellas";1990;145;85;Ray Liotta|Robert De Niro|Joe Pesci|Lorraine Bracco|Paul Sorvino|Frank Sivero|Tony Darrow|Mike Starr|Frank Vincent;Drama|Crime
-"346";"Seven Samurai";1954;207;85;Toshirō Mifune|Takashi Shimura|Yoshio Inaba|Seiji Miyaguchi|Minoru Chiaki|Daisuke Katō|Isao Kimura|Keiko Tsushima|Yukiko Shimazaki;Action|Drama
-"696374";"Gabriel's Inferno";2020;122;85;Melanie Zanetti|Giulio Berruti|Kurt McKinney|Agnes Albright|Margaux Brooke|Ned Van Zandt;Romance
-"11216";"Cinema Paradiso";1988;124;85;Philippe Noiret|Jacques Perrin|Marco Leonardi|Salvatore Cascio|Agnese Nano|Antonella Attili|Enzo Cannavale|Isa Danieli|Leo Gullotta;Drama|Romance
-"637";"Life Is Beautiful";1997;116;85;Roberto Benigni|Nicoletta Braschi|Giorgio Cantarini|Giustino Durano|Sergio Bini Bustric|Lidia Alfonsi|Giuliana Lojodice|Amerigo Fontani|Pietro De Silva;Comedy|Drama
-"995133";"The Boy, the Mole, the Fox and the Horse";2022;34;85;Jude Coward Nicoll|Tom Hollander|Idris Elba|Gabriel Byrne;Animation|Family|Adventure|Fantasy
-"12477";"Grave of the Fireflies";1988;89;84;Tsutomu Tatsumi|Ayano Shiraishi;Animation|Drama|War
-"311";"Once Upon a Time in America";1984;229;84;Robert De Niro|James Woods|Elizabeth McGovern|Joe Pesci|Burt Young|Tuesday Weld|Treat Williams|Jennifer Connelly|Danny Aiello;Drama|Crime
-"539";"Psycho";1960;109;84;Anthony Perkins|Vera Miles|John Gavin|Martin Balsam|John McIntire|Janet Leigh|Simon Oakland|Frank Albertson|Patricia Hitchcock;Horror|Drama|Thriller
-"611291";"Bring the Soul: The Movie";2019;105;84;Kim Nam-joon|Kim Seok-jin|Min Yoon-gi|Jung Ho-seok|Park Ji-min|Kim Tae-hyung|Jeon Jung-kook;Music|Documentary
-"724089";"Gabriel's Inferno: Part II";2020;105;84;Melanie Zanetti|Giulio Berruti|Margaux Brooke|Agnes Albright|Purva Bedi|Sahar Bibiyan|Cedric Cannon|Ned Van Zandt;Romance
-"550";"Fight Club";1999;139;84;Edward Norton|Brad Pitt|Helena Bonham Carter|Meat Loaf|Jared Leto|Zach Grenier|Holt McCallany|Eion Bailey|Richmond Arquette;Drama|Thriller|Comedy
-"667257";"Impossible Things";2021;88;84;Nora Velázquez|Benny Emmanuel|Luisa Huertas|Salvador Garcini|Andrés Delgado|Gabriela Cartol|Juan Carlos Medellin|Ari Gallegos;Family|Drama
-"761053";"Gabriel's Inferno: Part III";2020;105;84;Melanie Zanetti|Giulio Berruti|Rhett Wellington|Margaux Brooke|Agnes Albright|Pat Asanti;Romance|Comedy
-"598";"City of God";2002;130;84;Alexandre Rodrigues|Leandro Firmino|Phellipe Haagensen|Douglas Silva|Jonathan Haagensen|Matheus Nachtergaele|Seu Jorge|Jefechander Suplino|Alice Braga;Drama|Crime
-"510";"One Flew Over the Cuckoo's Nest";1975;133;84;Jack Nicholson|Louise Fletcher|Danny DeVito|William Redfield|Scatman Crothers|Brad Dourif|Christopher Lloyd|Will Sampson;Drama
-"14537";"Harakiri";1962;135;84;Tatsuya Nakadai|Akira Ishihama|Shima Iwashita|Tetsurō Tamba|Masao Mishima|Ichirô Nakatani|Kei Satō|Yoshio Inaba|Hisashi Igawa;Action|Drama|History
-"324857";"Spider-Man: Into the Spider-Verse";2018;117;84;Shameik Moore|Jake Johnson|Hailee Steinfeld|Mahershala Ali|Brian Tyree Henry|Lily Tomlin|Luna Lauren Velez|Zoë Kravitz|John Mulaney;Action|Adventure|Animation|Science_Fiction
-"4935";"Howl's Moving Castle";2004;119;84;Chieko Baisho|Takuya Kimura|Akihiro Miwa|Tatsuya Gashûin|Ryunosuke Kamiki|Mitsunori Isaki|Yo Oizumi|Akio Otsuka|Daijirô Harada;Fantasy|Animation|Adventure
-"157336";"Interstellar";2014;169;84;Matthew McConaughey|Anne Hathaway|Jessica Chastain|Bill Irwin|Ellen Burstyn|Michael Caine|Mackenzie Foy|Casey Affleck|John Lithgow;Adventure|Drama|Science_Fiction
-"378064";"A Silent Voice: The Movie";2016;130;84;Miyu Irino|Saori Hayami|Aoi Yuki|Kensho Ono|Yuki Kaneko|Yui Ishikawa|Megumi Han|Toshiyuki Toyonaga|Mayu Matsuoka;Animation|Drama
-"120";"The Lord of the Rings: The Fellowship of the Ring";2001;179;84;Elijah Wood|Ian McKellen|Liv Tyler|Viggo Mortensen|Sean Astin|Cate Blanchett|John Rhys-Davies|Billy Boyd|Dominic Monaghan;Adventure|Fantasy|Action
-"40096";"A Dog's Will";2000;104;84;Matheus Nachtergaele|Selton Mello|Rogério Cardoso|Denise Fraga|Diogo Vilela|Luís Melo|Virginia Cavendish|Bruno Garcia|Enrique Díaz;Comedy|Drama|Fantasy
-"1891";"The Empire Strikes Back";1980;124;84;Mark Hamill|Harrison Ford|Carrie Fisher|Billy Dee Williams|Anthony Daniels|David Prowse|Peter Mayhew|Kenny Baker|Frank Oz;Adventure|Action|Science_Fiction
-"92321";"Hotarubi no Mori e";2011;45;84;Izumi Sawada|Ayane Sakura|Koki Uchiyama|Shinpachi Tsuji|Kanehira Yamamoto|Masanori Machida|Mami Uchida|Hiroki Goto;Romance|Animation|Fantasy
-"423";"The Pianist";2002;150;84;Adrien Brody|Thomas Kretschmann|Frank Finlay|Maureen Lipman|Emilia Fox|Ed Stoppard|Julia Rayner|Jessica Kate Meyer|Michal Zebrowski;Drama|War
-"553512";"Burn the Stage: The Movie";2018;85;84;Kim Nam-joon|Kim Seok-jin|Min Yoon-gi|Jung Ho-seok|Park Ji-min|Kim Tae-hyung|Jeon Jung-kook;Music
-"121";"The Lord of the Rings: The Two Towers";2002;179;84;Elijah Wood|Ian McKellen|Liv Tyler|Viggo Mortensen|Sean Astin|Andy Serkis|Cate Blanchett|John Rhys-Davies|Bernard Hill;Adventure|Fantasy|Action
-"244786";"Whiplash";2014;107;84;Miles Teller|J.K. Simmons|Paul Reiser|Melissa Benoist|Austin Stowell|Chris Mulkey|Nate Lang|Charlie Ian|Jayson Blair;Drama|Music
-"164558";"One Direction: This Is Us";2013;92;84;Harry Styles|Niall Horan|Zayn Malik|Louis Tomlinson|Liam Payne|Simon Cowell|Martin Scorsese|Chris Rock|Jon Shone;Documentary|Music
-"18491";"Neon Genesis Evangelion: The End of Evangelion";1997;87;84;Megumi Ogata|Megumi Hayashibara|Kotono Mitsuishi|Yuko Miyamura|Fumihiko Tachiki|Miki Nagasawa|Takehito Koyasu|Yuriko Yamaguchi;Animation|Science_Fiction|Action
-"807";"Se7en";1995;127;84;Brad Pitt|Morgan Freeman|Gwyneth Paltrow|R. Lee Ermey|John C. McGinley|Julie Araskog|Mark Boone Junior|John Cassini|Reg E. Cathey;Crime|Mystery|Thriller
-"27205";"Inception";2010;148;84;Leonardo DiCaprio|Joseph Gordon-Levitt|Ken Watanabe|Tom Hardy|Elliot Page|Dileep Rao|Cillian Murphy|Tom Berenger|Marion Cotillard;Action|Science_Fiction|Adventure
-"599";"Sunset Boulevard";1950;110;84;William Holden|Gloria Swanson|Erich von Stroheim|Nancy Olson|Fred Clark|Lloyd Gough|Jack Webb|Franklyn Farnum|Larry J. Blake;Drama
-"567";"Rear Window";1954;112;84;James Stewart|Grace Kelly|Thelma Ritter|Wendell Corey|Raymond Burr|Judith Evelyn|Ross Bagdasarian|Georgine Darcy|Irene Winston;Thriller|Mystery
-"652837";"Josee, the Tiger and the Fish";2020;98;84;Taishi Nakagawa|Kaya Kiyohara|Yume Miyamoto|Kazuyuki Okitsu|Lynn|Chiemi Matsutera|Shintarou Moriyama|Lily;Animation|Drama|Romance
-"255709";"Hope";2013;122;84;Sol Kyung-gu|Uhm Ji-won|Lee Re|Kim Sang-ho|Kim Hae-sook|Ra Mi-ran|Kwon Tae-won|Kang Shin-chul|Seo Hyun-woo;Drama
-"73";"American History X";1998;119;84;Edward Norton|Edward Furlong|Beverly D'Angelo|Jennifer Lien|Ethan Suplee|Fairuza Balk|Avery Brooks|Elliott Gould|Stacy Keach;Drama
-"3782";"Ikiru";1952;143;84;Takashi Shimura|Haruo Tanaka|Nobuo Kaneko|Bokuzen Hidari|Miki Odagiri|Shinichi Himori|Minoru Chiaki|Minosuke Yamada|Kamatari Fujiwara;Drama
-"914";"The Great Dictator";1940;125;83;Charlie Chaplin|Paulette Goddard|Jack Oakie|Reginald Gardiner|Henry Daniell|Billy Gilbert|Grace Hayle|Carter DeHaven|Maurice Moscovitch;Comedy|War
-"274";"The Silence of the Lambs";1991;119;83;Jodie Foster|Anthony Hopkins|Scott Glenn|Ted Levine|Anthony Heald|Brooke Smith|Diane Baker|Kasi Lemmons|Frankie Faison;Crime|Drama|Thriller
-"128";"Princess Mononoke";1997;134;83;Youji Matsuda|Yuriko Ishida|Yūko Tanaka|Kaoru Kobayashi|Masahiko Nishimura|Tsunehiko Kamijô|Akihiro Miwa|Mitsuko Mori|Hisaya Morishige;Adventure|Fantasy|Animation
-"851644";"20th Century Girl";2022;119;83;Kim You-jung|Byeon Woo-seok|Park Jung-woo|Roh Yoon-seo|Kim Sung-kyung|Jeong Seok-yong|Yoon Yi-reh|Jeon Hye-won|Kim Nu-rim;Romance|Drama
-"533514";"Violet Evergarden: The Movie";2020;140;83;Yui Ishikawa|Daisuke Namikawa|Takehito Koyasu|Hidenobu Kiuchi|Haruka Tomatsu|Koki Uchiyama|Aya Endo|Minori Chihara|Kaori Mizuhashi;Animation|Fantasy|Romance|Drama
-"901";"City Lights";1931;87;83;Charlie Chaplin|Virginia Cherrill|Harry Myers|Al Ernest Garcia|Hank Mann|Albert Austin|Henry Bergman|Buster Brodie;Comedy|Romance|Drama
-"12493";"High and Low";1963;142;83;Toshirō Mifune|Tatsuya Nakadai|Kyōko Kagawa|Tatsuya Mihashi|Isao Kimura|Kenjirō Ishiyama|Takeshi Katō|Takashi Shimura|Jun Tazaki;Crime|Drama|Mystery|Thriller
-"101";"Léon: The Professional";1994;111;83;Jean Reno|Natalie Portman|Gary Oldman|Danny Aiello|Peter Appel|Michael Badalucco|Ellen Greene|Elizabeth Regen|Carl J. Matusovich;Crime|Drama|Action
-"644479";"Dedicated to my ex";2019;94;83;Raúl Santana|Nataly Valencia|Carlos Alcántara|Biassini Segura|Mariana Treviño|Eugenio Derbez|Orlando Herrera|Alfredo Espinoza;Drama|Comedy
-"207";"Dead Poets Society";1989;128;83;Robin Williams|Ethan Hawke|Robert Sean Leonard|Gale Hansen|Josh Charles|Dylan Kussman|Allelon Ruggiero|James Waterston|Norman Lloyd;Drama
-"105";"Back to the Future";1985;116;83;Michael J. Fox|Christopher Lloyd|Lea Thompson|Crispin Glover|Thomas F. Wilson|Claudia Wells|Marc McClure|Wendie Jo Sperber|George DiCenzo;Adventure|Comedy|Science_Fiction
-"568300";"BTS World Tour: Love Yourself in Seoul";2019;113;83;Kim Nam-joon|Kim Seok-jin|Min Yoon-gi|Jung Ho-seok|Park Ji-min|Kim Tae-hyung|Jeon Jung-kook;Music
-"3082";"Modern Times";1936;87;83;Charlie Chaplin|Paulette Goddard|Henry Bergman|Tiny Sandford|Chester Conklin|Hank Mann|Stanley Blystone|Al Ernest Garcia|Richard Alexander;Comedy|Drama
-"20334";"The Shop Around the Corner";1940;99;83;Margaret Sullavan|James Stewart|Frank Morgan|Joseph Schildkraut|Sara Haden|Felix Bressart|William Tracy|Inez Courtney|Sarah Edwards;Comedy|Drama|Romance
-"527641";"Five Feet Apart";2019;116;83;Haley Lu Richardson|Cole Sprouse|Moisés Arias|Kimberly Hebert Gregory|Parminder Nagra|Claire Forlani|Emily Baldoni|Gary Weeks|Rebecca Chulew;Romance|Drama
-"630566";"Clouds";2020;121;83;Steffan Argus|Sabrina Carpenter|Madison Iseman|Neve Campbell|Tom Everett Scott|Lil Rel Howery|Summer H. Howell|Vivien Endicott Douglas|Dylan Everett;Music|Drama|Romance
-"25237";"Come and See";1985;142;83;Aleksei Kravchenko|Olga Mironova|Liubomiras Laucevicius|Vladas Bagdonas|Jüri Lumiste|Viktors Lorencs|Kazimir Rabetsky|Yevgeni Tilicheyev;Drama|War
-"447362";"Life in a Year";2020;107;83;Jaden Smith|Cara Delevingne|Cuba Gooding Jr.|Nia Long|RZA|JT Neal|Chris D'Elia|Harper Gunn|Dan Tymon;Drama|Romance
-"16672";"Woman in the Dunes";1964;147;83;Eiji Okada|Kyōko Kishida|Kōji Mitsui|Sen Yano;Drama|Thriller
-"335";"Once Upon a Time in the West";1968;166;83;Claudia Cardinale|Henry Fonda|Jason Robards|Charles Bronson|Gabriele Ferzetti|Paolo Stoppa|Woody Strode|Jack Elam|Keenan Wynn;Drama|Western
-"361743";"Top Gun: Maverick";2022;131;83;Tom Cruise|Miles Teller|Jennifer Connelly|Jon Hamm|Glen Powell|Ed Harris|Val Kilmer|Lewis Pullman|Charles Parnell;Action|Drama
-"315162";"Puss in Boots: The Last Wish";2022;103;83;Antonio Banderas|Salma Hayek|Harvey Guillén|Wagner Moura|Florence Pugh|Olivia Colman|Ray Winstone|Samson Kayo|John Mulaney;Animation|Family|Fantasy|Adventure|Comedy
-"283566";"Evangelion: 3.0+1.0 Thrice Upon a Time";2021;155;83;Megumi Ogata|Yuko Miyamura|Maaya Sakamoto|Megumi Hayashibara|Kotono Mitsuishi|Yuriko Yamaguchi|Tomokazu Seki|Tetsuya Iwanaga|Junko Iwao;Animation|Action|Science_Fiction|Drama
-"441130";"Wolfwalkers";2020;103;83;Honor Kneafsey|Eva Whittaker|Sean Bean|Simon McBurney|Tommy Tiernan|Jon Kenny|John Morton|Maria Doyle Kennedy;Animation|Family|Adventure|Fantasy
-"632632";"Given";2020;60;83;Takuya Eguchi|Masatomo Nakazawa|Shogo Yano|Yuma Uchida|Shintaro Asanuma;Animation|Drama|Music|Romance
-"10494";"Perfect Blue";1997;81;83;Junko Iwao|Rica Matsumoto|Masaaki Okura|Shinpachi Tsuji|Yousuke Akimoto|Yoku Shioya|Hideyuki Hori;Animation|Thriller
-"28";"Apocalypse Now";1979;147;83;Marlon Brando|Robert Duvall|Martin Sheen|Frederic Forrest|Laurence Fishburne|Albert Hall|Sam Bottoms|Dennis Hopper|G. D. Spradlin;Drama|War
-"29259";"Le Trou";1960;132;83;Michel Constantin|Jean Keraudy|Philippe Leroy|Raymond Meunier|Marc Michel|Jean-Paul Coquelin|André Bervil|Eddy Rasimi|Philippe Dumat;Crime|Drama|Thriller|History
-"618344";"Justice League Dark: Apokolips War";2020;90;83;Matt Ryan|Jerry O'Connell|Taissa Farmiga|Jason O'Mara|Rosario Dawson|Stuart Allan|Rebecca Romijn|Rainn Wilson|Tony Todd;Animation|Action|Science_Fiction
-"637920";"Miracle in Cell No. 7";2019;132;83;Aras Bulut İynemli|Nisa Sofiya Aksongur|İlker Aksum|Mesut Akusta|Yıldıray Şahinler|Yurdaer Okur|Sarp Akkaya|Deniz Baysal|Deniz Celiloğlu;Drama
-"10376";"The Legend of 1900";1998;170;83;Tim Roth|Pruitt Taylor Vince|Mélanie Thierry|Bill Nunn|Gabriele Lavia|Clarence Williams III|Peter Vaughan|Alberto Vazquez;Drama|Music|Romance
-"975";"Paths of Glory";1957;88;83;Kirk Douglas|Ralph Meeker|Adolphe Menjou|George Macready|Wayne Morris|Richard Anderson|Joe Turkel|Christiane Kubrick|Jerry Hausner;Drama|War
-"77338";"The Intouchables";2011;113;83;François Cluzet|Omar Sy|Anne Le Ny|Clotilde Mollet|Alba Gaïa Bellugi|Audrey Fleurot|Cyril Mendy|Christian Ameri;Drama|Comedy
-"740996";"BLACKPINK: Light Up the Sky";2020;79;83;Kim Ji-soo|Jennie Kim|Rosé|Lisa|Teddy Park;Documentary|Music
-"537061";"Steven Universe: The Movie";2019;82;83;Zach Callison|Deedee Magno|Estelle|Michaela Dietz|Sarah Stiles|Tom Scharpling|Uzo Aduba|Shelby Rabara|Jennifer Paz;TV_Movie|Animation|Science_Fiction|Action|Adventure|Comedy|Drama|Fantasy|Music
-"670";"Oldboy";2003;120;83;Choi Min-sik|Yoo Ji-tae|Kang Hye-jung|Kim Byeong-ok|Ji Dae-han|Oh Dal-su|Lee Seung-shin|Yoon Jin-seo|Oh Tae-kyung;Drama|Thriller|Mystery|Action
-"265177";"Mommy";2014;138;83;Anne Dorval|Antoine Olivier Pilon|Suzanne Clément|Alexandre Goyette|Michèle Lituac|Viviane Pacal|Natalie Hamel-Roy|Isabelle Nélisse|Patrick Huard;Drama
-"299534";"Avengers: Endgame";2019;181;83;Robert Downey Jr.|Chris Evans|Mark Ruffalo|Chris Hemsworth|Scarlett Johansson|Jeremy Renner|Don Cheadle|Paul Rudd|Benedict Cumberbatch;Adventure|Science_Fiction|Action
-"299536";"Avengers: Infinity War";2018;149;83;Robert Downey Jr.|Chris Hemsworth|Mark Ruffalo|Chris Evans|Scarlett Johansson|Benedict Cumberbatch|Tom Holland|Chadwick Boseman|Don Cheadle;Adventure|Action|Science_Fiction
-"635302";"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train";2020;117;83;Natsuki Hanae|Akari Kito|Hiro Shimono|Yoshitsugu Matsuoka|Satoshi Hino|Takahiro Sakurai|Katsuyuki Konishi|Saori Hayami|Kenichi Suzumura;Animation|Action|Adventure|Fantasy|Thriller
-"575813";"Better Days";2019;135;83;Zhou Dongyu|Jackson Yee|Yin Fang|Huang Jue|Wu Yue|Zhou Ye|Zhang Xin Yi|Zhao Runnan|Zhang Yao;Drama
-"508965";"Klaus";2019;96;83;Jason Schwartzman|J.K. Simmons|Rashida Jones|Joan Cusack|Norm Macdonald|Will Sasso|Sergio Pablos;Animation|Family|Adventure|Comedy|Fantasy
-"8587";"The Lion King";1994;89;83;Jonathan Taylor Thomas|Matthew Broderick|James Earl Jones|Jeremy Irons|Moira Kelly|Ernie Sabella|Nathan Lane|Robert Guillaume|Rowan Atkinson;Family|Animation|Drama
-"1585";"It's a Wonderful Life";1946;130;83;James Stewart|Donna Reed|Lionel Barrymore|Thomas Mitchell|Henry Travers|Beulah Bondi|Frank Faylen|Ward Bond|Gloria Grahame;Drama|Family|Fantasy
-"797";"Persona";1966;83;82;Bibi Andersson|Liv Ullmann|Margaretha Krook|Gunnar Björnstrand|Jörgen Lindström;Drama
+"238";"The Godfather";1972;175;87;Al_Pacino|Marlon_Brando|James_Caan|Richard_S._Castellano|Robert_Duvall|Sterling_Hayden|John_Marley|Richard_Conte|Diane_Keaton;Drama|Crime
+"278";"The Shawshank Redemption";1994;142;87;Tim_Robbins|Morgan_Freeman|Bob_Gunton|William_Sadler|Clancy_Brown|Gil_Bellows|James_Whitmore|Mark_Rolston|Jeffrey_DeMunn;Drama|Crime
+"240";"The Godfather Part II";1974;202;86;Al_Pacino|Robert_Duvall|Diane_Keaton|Robert_De_Niro|Talia_Shire|Morgana_King|John_Cazale|Marianna_Hill|Lee_Strasberg;Drama|Crime
+"19404";"Dilwale Dulhania Le Jayenge";1995;190;86;Shah_Rukh_Khan|Kajol|Amrish_Puri|Anupam_Kher|Satish_Shah|Farida_Jalal|Achala_Sachdev|Himani_Shivpuri|Pooja_Ruparel;Comedy|Drama|Romance
+"424";"Schindler's List";1993;195;86;Liam_Neeson|Ben_Kingsley|Ralph_Fiennes|Caroline_Goodall|Jonathan_Sagall|Embeth_Davidtz|Malgorzata_Gebel|Shmuel_Levy|Mark_Ivanir;Drama|History|War
+"129";"Spirited Away";2001;125;85;Rumi_Hiiragi|Miyu_Irino|Mari_Natsuki|Takashi_Naito|Yasuko_Sawaguchi|Tsunehiko_Kamijô|Takehiko_Ono|Bunta_Sugawara|Akio_Nakamura;Animation|Family|Fantasy
+"389";"12 Angry Men";1957;97;85;Martin_Balsam|John_Fiedler|Lee_J._Cobb|E.G._Marshall|Jack_Klugman|Edward_Binns|Jack_Warden|Henry_Fonda|Joseph_Sweeney;Drama
+"372058";"Your Name.";2016;106;85;Ryunosuke_Kamiki|Mone_Kamishiraishi|Ryo_Narita|Aoi_Yuki|Nobunaga_Shimazaki|Kaito_Ishikawa|Kanon_Tani|Masaki_Terasoma|Sayaka_Ohara;Romance|Animation|Drama
+"496243";"Parasite";2019;133;85;Song_Kang_ho|Lee_Sun_kyun|Cho_Yeo_jeong|Choi_Woo_shik|Park_So_dam|Lee_Jung_eun|Jang_Hye_jin|Park_Myung_hoon|Jung_Ji_so;Comedy|Thriller|Drama
+"155";"The Dark Knight";2008;152;85;Christian_Bale|Heath_Ledger|Michael_Caine|Gary_Oldman|Aaron_Eckhart|Maggie_Gyllenhaal|Morgan_Freeman|Nestor_Carbonell|Monique_Gabriela_Curnen;Drama|Action|Crime|Thriller
+"497";"The Green Mile";1999;189;85;Tom_Hanks|Michael_Clarke_Duncan|David_Morse|Bonnie_Hunt|Michael_Jeter|Doug_Hutchison|Sam_Rockwell|James_Cromwell|Barry_Pepper;Fantasy|Drama|Crime
+"680";"Pulp Fiction";1994;154;85;John_Travolta|Samuel_L._Jackson|Uma_Thurman|Bruce_Willis|Ving_Rhames|Harvey_Keitel|Eric_Stoltz|Tim_Roth|Amanda_Plummer;Thriller|Crime
+"429";"The Good, the Bad and the Ugly";1966;161;85;Clint_Eastwood|Eli_Wallach|Lee_Van_Cleef|Aldo_Giuffrè|Luigi_Pistilli|Rada_Rassimov|Antonio_Casale;Western
+"13";"Forrest Gump";1994;142;85;Tom_Hanks|Robin_Wright|Gary_Sinise|Sally_Field|Mykelti_Williamson|Michael_Conner_Humphreys|Hanna_Hall|Haley_Joel_Osment|Siobhan_Fallon_Hogan;Comedy|Drama|Romance
+"372754";"Dou kyu sei ā Classmates";2016;61;85;Kenji_Nojima|Hiroshi_Kamiya|Hideo_Ishikawa;Romance|Animation
+"122";"The Lord of the Rings: The Return of the King";2003;201;85;Elijah_Wood|Ian_McKellen|Liv_Tyler|Viggo_Mortensen|Sean_Astin|Andy_Serkis|Cate_Blanchett|John_Rhys_Davies|Bernard_Hill;Adventure|Fantasy|Action
+"769";"GoodFellas";1990;145;85;Ray_Liotta|Robert_De_Niro|Joe_Pesci|Lorraine_Bracco|Paul_Sorvino|Frank_Sivero|Tony_Darrow|Mike_Starr|Frank_Vincent;Drama|Crime
+"346";"Seven Samurai";1954;207;85;Toshirō_Mifune|Takashi_Shimura|Yoshio_Inaba|Seiji_Miyaguchi|Minoru_Chiaki|Daisuke_Katō|Isao_Kimura|Keiko_Tsushima|Yukiko_Shimazaki;Action|Drama
+"696374";"Gabriel's Inferno";2020;122;85;Melanie_Zanetti|Giulio_Berruti|Kurt_McKinney|Agnes_Albright|Margaux_Brooke|Ned_Van_Zandt;Romance
+"11216";"Cinema Paradiso";1988;124;85;Philippe_Noiret|Jacques_Perrin|Marco_Leonardi|Salvatore_Cascio|Agnese_Nano|Antonella_Attili|Enzo_Cannavale|Isa_Danieli|Leo_Gullotta;Drama|Romance
+"637";"Life Is Beautiful";1997;116;85;Roberto_Benigni|Nicoletta_Braschi|Giorgio_Cantarini|Giustino_Durano|Sergio_Bini_Bustric|Lidia_Alfonsi|Giuliana_Lojodice|Amerigo_Fontani|Pietro_De_Silva;Comedy|Drama
+"995133";"The Boy, the Mole, the Fox and the Horse";2022;34;85;Jude_Coward_Nicoll|Tom_Hollander|Idris_Elba|Gabriel_Byrne;Animation|Family|Adventure|Fantasy
+"12477";"Grave of the Fireflies";1988;89;84;Tsutomu_Tatsumi|Ayano_Shiraishi;Animation|Drama|War
+"311";"Once Upon a Time in America";1984;229;84;Robert_De_Niro|James_Woods|Elizabeth_McGovern|Joe_Pesci|Burt_Young|Tuesday_Weld|Treat_Williams|Jennifer_Connelly|Danny_Aiello;Drama|Crime
+"539";"Psycho";1960;109;84;Anthony_Perkins|Vera_Miles|John_Gavin|Martin_Balsam|John_McIntire|Janet_Leigh|Simon_Oakland|Frank_Albertson|Patricia_Hitchcock;Horror|Drama|Thriller
+"611291";"Bring the Soul: The Movie";2019;105;84;Kim_Nam_joon|Kim_Seok_jin|Min_Yoon_gi|Jung_Ho_seok|Park_Ji_min|Kim_Tae_hyung|Jeon_Jung_kook;Music|Documentary
+"724089";"Gabriel's Inferno: Part II";2020;105;84;Melanie_Zanetti|Giulio_Berruti|Margaux_Brooke|Agnes_Albright|Purva_Bedi|Sahar_Bibiyan|Cedric_Cannon|Ned_Van_Zandt;Romance
+"550";"Fight Club";1999;139;84;Edward_Norton|Brad_Pitt|Helena_Bonham_Carter|Meat_Loaf|Jared_Leto|Zach_Grenier|Holt_McCallany|Eion_Bailey|Richmond_Arquette;Drama|Thriller|Comedy
+"667257";"Impossible Things";2021;88;84;Nora_Velázquez|Benny_Emmanuel|Luisa_Huertas|Salvador_Garcini|Andrés_Delgado|Gabriela_Cartol|Juan_Carlos_Medellin|Ari_Gallegos;Family|Drama
+"761053";"Gabriel's Inferno: Part III";2020;105;84;Melanie_Zanetti|Giulio_Berruti|Rhett_Wellington|Margaux_Brooke|Agnes_Albright|Pat_Asanti;Romance|Comedy
+"598";"City of God";2002;130;84;Alexandre_Rodrigues|Leandro_Firmino|Phellipe_Haagensen|Douglas_Silva|Jonathan_Haagensen|Matheus_Nachtergaele|Seu_Jorge|Jefechander_Suplino|Alice_Braga;Drama|Crime
+"510";"One Flew Over the Cuckoo's Nest";1975;133;84;Jack_Nicholson|Louise_Fletcher|Danny_DeVito|William_Redfield|Scatman_Crothers|Brad_Dourif|Christopher_Lloyd|Will_Sampson;Drama
+"14537";"Harakiri";1962;135;84;Tatsuya_Nakadai|Akira_Ishihama|Shima_Iwashita|Tetsurō_Tamba|Masao_Mishima|Ichirô_Nakatani|Kei_Satō|Yoshio_Inaba|Hisashi_Igawa;Action|Drama|History
+"324857";"Spider-Man: Into the Spider-Verse";2018;117;84;Shameik_Moore|Jake_Johnson|Hailee_Steinfeld|Mahershala_Ali|Brian_Tyree_Henry|Lily_Tomlin|Luna_Lauren_Velez|Zoë_Kravitz|John_Mulaney;Action|Adventure|Animation|Science_Fiction
+"4935";"Howl's Moving Castle";2004;119;84;Chieko_Baisho|Takuya_Kimura|Akihiro_Miwa|Tatsuya_Gashûin|Ryunosuke_Kamiki|Mitsunori_Isaki|Yo_Oizumi|Akio_Otsuka|Daijirô_Harada;Fantasy|Animation|Adventure
+"157336";"Interstellar";2014;169;84;Matthew_McConaughey|Anne_Hathaway|Jessica_Chastain|Bill_Irwin|Ellen_Burstyn|Michael_Caine|Mackenzie_Foy|Casey_Affleck|John_Lithgow;Adventure|Drama|Science_Fiction
+"378064";"A Silent Voice: The Movie";2016;130;84;Miyu_Irino|Saori_Hayami|Aoi_Yuki|Kensho_Ono|Yuki_Kaneko|Yui_Ishikawa|Megumi_Han|Toshiyuki_Toyonaga|Mayu_Matsuoka;Animation|Drama
+"120";"The Lord of the Rings: The Fellowship of the Ring";2001;179;84;Elijah_Wood|Ian_McKellen|Liv_Tyler|Viggo_Mortensen|Sean_Astin|Cate_Blanchett|John_Rhys_Davies|Billy_Boyd|Dominic_Monaghan;Adventure|Fantasy|Action
+"40096";"A Dog's Will";2000;104;84;Matheus_Nachtergaele|Selton_Mello|Rogério_Cardoso|Denise_Fraga|Diogo_Vilela|Luís_Melo|Virginia_Cavendish|Bruno_Garcia|Enrique_Díaz;Comedy|Drama|Fantasy
+"1891";"The Empire Strikes Back";1980;124;84;Mark_Hamill|Harrison_Ford|Carrie_Fisher|Billy_Dee_Williams|Anthony_Daniels|David_Prowse|Peter_Mayhew|Kenny_Baker|Frank_Oz;Adventure|Action|Science_Fiction
+"92321";"Hotarubi no Mori e";2011;45;84;Izumi_Sawada|Ayane_Sakura|Koki_Uchiyama|Shinpachi_Tsuji|Kanehira_Yamamoto|Masanori_Machida|Mami_Uchida|Hiroki_Goto;Romance|Animation|Fantasy
+"423";"The Pianist";2002;150;84;Adrien_Brody|Thomas_Kretschmann|Frank_Finlay|Maureen_Lipman|Emilia_Fox|Ed_Stoppard|Julia_Rayner|Jessica_Kate_Meyer|Michal_Zebrowski;Drama|War
+"553512";"Burn the Stage: The Movie";2018;85;84;Kim_Nam_joon|Kim_Seok_jin|Min_Yoon_gi|Jung_Ho_seok|Park_Ji_min|Kim_Tae_hyung|Jeon_Jung_kook;Music
+"121";"The Lord of the Rings: The Two Towers";2002;179;84;Elijah_Wood|Ian_McKellen|Liv_Tyler|Viggo_Mortensen|Sean_Astin|Andy_Serkis|Cate_Blanchett|John_Rhys_Davies|Bernard_Hill;Adventure|Fantasy|Action
+"244786";"Whiplash";2014;107;84;Miles_Teller|J.K._Simmons|Paul_Reiser|Melissa_Benoist|Austin_Stowell|Chris_Mulkey|Nate_Lang|Charlie_Ian|Jayson_Blair;Drama|Music
+"164558";"One Direction: This Is Us";2013;92;84;Harry_Styles|Niall_Horan|Zayn_Malik|Louis_Tomlinson|Liam_Payne|Simon_Cowell|Martin_Scorsese|Chris_Rock|Jon_Shone;Documentary|Music
+"18491";"Neon Genesis Evangelion: The End of Evangelion";1997;87;84;Megumi_Ogata|Megumi_Hayashibara|Kotono_Mitsuishi|Yuko_Miyamura|Fumihiko_Tachiki|Miki_Nagasawa|Takehito_Koyasu|Yuriko_Yamaguchi;Animation|Science_Fiction|Action
+"807";"Se7en";1995;127;84;Brad_Pitt|Morgan_Freeman|Gwyneth_Paltrow|R._Lee_Ermey|John_C._McGinley|Julie_Araskog|Mark_Boone_Junior|John_Cassini|Reg_E._Cathey;Crime|Mystery|Thriller
+"27205";"Inception";2010;148;84;Leonardo_DiCaprio|Joseph_Gordon_Levitt|Ken_Watanabe|Tom_Hardy|Elliot_Page|Dileep_Rao|Cillian_Murphy|Tom_Berenger|Marion_Cotillard;Action|Science_Fiction|Adventure
+"599";"Sunset Boulevard";1950;110;84;William_Holden|Gloria_Swanson|Erich_von_Stroheim|Nancy_Olson|Fred_Clark|Lloyd_Gough|Jack_Webb|Franklyn_Farnum|Larry_J._Blake;Drama
+"567";"Rear Window";1954;112;84;James_Stewart|Grace_Kelly|Thelma_Ritter|Wendell_Corey|Raymond_Burr|Judith_Evelyn|Ross_Bagdasarian|Georgine_Darcy|Irene_Winston;Thriller|Mystery
+"652837";"Josee, the Tiger and the Fish";2020;98;84;Taishi_Nakagawa|Kaya_Kiyohara|Yume_Miyamoto|Kazuyuki_Okitsu|Lynn|Chiemi_Matsutera|Shintarou_Moriyama|Lily;Animation|Drama|Romance
+"255709";"Hope";2013;122;84;Sol_Kyung_gu|Uhm_Ji_won|Lee_Re|Kim_Sang_ho|Kim_Hae_sook|Ra_Mi_ran|Kwon_Tae_won|Kang_Shin_chul|Seo_Hyun_woo;Drama
+"73";"American History X";1998;119;84;Edward_Norton|Edward_Furlong|Beverly_D'Angelo|Jennifer_Lien|Ethan_Suplee|Fairuza_Balk|Avery_Brooks|Elliott_Gould|Stacy_Keach;Drama
+"3782";"Ikiru";1952;143;84;Takashi_Shimura|Haruo_Tanaka|Nobuo_Kaneko|Bokuzen_Hidari|Miki_Odagiri|Shinichi_Himori|Minoru_Chiaki|Minosuke_Yamada|Kamatari_Fujiwara;Drama
+"914";"The Great Dictator";1940;125;83;Charlie_Chaplin|Paulette_Goddard|Jack_Oakie|Reginald_Gardiner|Henry_Daniell|Billy_Gilbert|Grace_Hayle|Carter_DeHaven|Maurice_Moscovitch;Comedy|War
+"274";"The Silence of the Lambs";1991;119;83;Jodie_Foster|Anthony_Hopkins|Scott_Glenn|Ted_Levine|Anthony_Heald|Brooke_Smith|Diane_Baker|Kasi_Lemmons|Frankie_Faison;Crime|Drama|Thriller
+"128";"Princess Mononoke";1997;134;83;Youji_Matsuda|Yuriko_Ishida|Yūko_Tanaka|Kaoru_Kobayashi|Masahiko_Nishimura|Tsunehiko_Kamijô|Akihiro_Miwa|Mitsuko_Mori|Hisaya_Morishige;Adventure|Fantasy|Animation
+"851644";"20th Century Girl";2022;119;83;Kim_You_jung|Byeon_Woo_seok|Park_Jung_woo|Roh_Yoon_seo|Kim_Sung_kyung|Jeong_Seok_yong|Yoon_Yi_reh|Jeon_Hye_won|Kim_Nu_rim;Romance|Drama
+"533514";"Violet Evergarden: The Movie";2020;140;83;Yui_Ishikawa|Daisuke_Namikawa|Takehito_Koyasu|Hidenobu_Kiuchi|Haruka_Tomatsu|Koki_Uchiyama|Aya_Endo|Minori_Chihara|Kaori_Mizuhashi;Animation|Fantasy|Romance|Drama
+"901";"City Lights";1931;87;83;Charlie_Chaplin|Virginia_Cherrill|Harry_Myers|Al_Ernest_Garcia|Hank_Mann|Albert_Austin|Henry_Bergman|Buster_Brodie;Comedy|Romance|Drama
+"12493";"High and Low";1963;142;83;Toshirō_Mifune|Tatsuya_Nakadai|Kyōko_Kagawa|Tatsuya_Mihashi|Isao_Kimura|Kenjirō_Ishiyama|Takeshi_Katō|Takashi_Shimura|Jun_Tazaki;Crime|Drama|Mystery|Thriller
+"101";"Léon: The Professional";1994;111;83;Jean_Reno|Natalie_Portman|Gary_Oldman|Danny_Aiello|Peter_Appel|Michael_Badalucco|Ellen_Greene|Elizabeth_Regen|Carl_J._Matusovich;Crime|Drama|Action
+"644479";"Dedicated to my ex";2019;94;83;Raúl_Santana|Nataly_Valencia|Carlos_Alcántara|Biassini_Segura|Mariana_Treviño|Eugenio_Derbez|Orlando_Herrera|Alfredo_Espinoza;Drama|Comedy
+"207";"Dead Poets Society";1989;128;83;Robin_Williams|Ethan_Hawke|Robert_Sean_Leonard|Gale_Hansen|Josh_Charles|Dylan_Kussman|Allelon_Ruggiero|James_Waterston|Norman_Lloyd;Drama
+"105";"Back to the Future";1985;116;83;Michael_J._Fox|Christopher_Lloyd|Lea_Thompson|Crispin_Glover|Thomas_F._Wilson|Claudia_Wells|Marc_McClure|Wendie_Jo_Sperber|George_DiCenzo;Adventure|Comedy|Science_Fiction
+"568300";"BTS World Tour: Love Yourself in Seoul";2019;113;83;Kim_Nam_joon|Kim_Seok_jin|Min_Yoon_gi|Jung_Ho_seok|Park_Ji_min|Kim_Tae_hyung|Jeon_Jung_kook;Music
+"3082";"Modern Times";1936;87;83;Charlie_Chaplin|Paulette_Goddard|Henry_Bergman|Tiny_Sandford|Chester_Conklin|Hank_Mann|Stanley_Blystone|Al_Ernest_Garcia|Richard_Alexander;Comedy|Drama
+"20334";"The Shop Around the Corner";1940;99;83;Margaret_Sullavan|James_Stewart|Frank_Morgan|Joseph_Schildkraut|Sara_Haden|Felix_Bressart|William_Tracy|Inez_Courtney|Sarah_Edwards;Comedy|Drama|Romance
+"527641";"Five Feet Apart";2019;116;83;Haley_Lu_Richardson|Cole_Sprouse|Moisés_Arias|Kimberly_Hebert_Gregory|Parminder_Nagra|Claire_Forlani|Emily_Baldoni|Gary_Weeks|Rebecca_Chulew;Romance|Drama
+"630566";"Clouds";2020;121;83;Steffan_Argus|Sabrina_Carpenter|Madison_Iseman|Neve_Campbell|Tom_Everett_Scott|Lil_Rel_Howery|Summer_H._Howell|Vivien_Endicott_Douglas|Dylan_Everett;Music|Drama|Romance
+"25237";"Come and See";1985;142;83;Aleksei_Kravchenko|Olga_Mironova|Liubomiras_Laucevicius|Vladas_Bagdonas|Jüri_Lumiste|Viktors_Lorencs|Kazimir_Rabetsky|Yevgeni_Tilicheyev;Drama|War
+"447362";"Life in a Year";2020;107;83;Jaden_Smith|Cara_Delevingne|Cuba_Gooding_Jr.|Nia_Long|RZA|JT_Neal|Chris_D'Elia|Harper_Gunn|Dan_Tymon;Drama|Romance
+"16672";"Woman in the Dunes";1964;147;83;Eiji_Okada|Kyōko_Kishida|Kōji_Mitsui|Sen_Yano;Drama|Thriller
+"335";"Once Upon a Time in the West";1968;166;83;Claudia_Cardinale|Henry_Fonda|Jason_Robards|Charles_Bronson|Gabriele_Ferzetti|Paolo_Stoppa|Woody_Strode|Jack_Elam|Keenan_Wynn;Drama|Western
+"361743";"Top Gun: Maverick";2022;131;83;Tom_Cruise|Miles_Teller|Jennifer_Connelly|Jon_Hamm|Glen_Powell|Ed_Harris|Val_Kilmer|Lewis_Pullman|Charles_Parnell;Action|Drama
+"315162";"Puss in Boots: The Last Wish";2022;103;83;Antonio_Banderas|Salma_Hayek|Harvey_Guillén|Wagner_Moura|Florence_Pugh|Olivia_Colman|Ray_Winstone|Samson_Kayo|John_Mulaney;Animation|Family|Fantasy|Adventure|Comedy
+"283566";"Evangelion: 3.0+1.0 Thrice Upon a Time";2021;155;83;Megumi_Ogata|Yuko_Miyamura|Maaya_Sakamoto|Megumi_Hayashibara|Kotono_Mitsuishi|Yuriko_Yamaguchi|Tomokazu_Seki|Tetsuya_Iwanaga|Junko_Iwao;Animation|Action|Science_Fiction|Drama
+"441130";"Wolfwalkers";2020;103;83;Honor_Kneafsey|Eva_Whittaker|Sean_Bean|Simon_McBurney|Tommy_Tiernan|Jon_Kenny|John_Morton|Maria_Doyle_Kennedy;Animation|Family|Adventure|Fantasy
+"632632";"Given";2020;60;83;Takuya_Eguchi|Masatomo_Nakazawa|Shogo_Yano|Yuma_Uchida|Shintaro_Asanuma;Animation|Drama|Music|Romance
+"10494";"Perfect Blue";1997;81;83;Junko_Iwao|Rica_Matsumoto|Masaaki_Okura|Shinpachi_Tsuji|Yousuke_Akimoto|Yoku_Shioya|Hideyuki_Hori;Animation|Thriller
+"28";"Apocalypse Now";1979;147;83;Marlon_Brando|Robert_Duvall|Martin_Sheen|Frederic_Forrest|Laurence_Fishburne|Albert_Hall|Sam_Bottoms|Dennis_Hopper|G._D._Spradlin;Drama|War
+"29259";"Le Trou";1960;132;83;Michel_Constantin|Jean_Keraudy|Philippe_Leroy|Raymond_Meunier|Marc_Michel|Jean_Paul_Coquelin|André_Bervil|Eddy_Rasimi|Philippe_Dumat;Crime|Drama|Thriller|History
+"618344";"Justice League Dark: Apokolips War";2020;90;83;Matt_Ryan|Jerry_O'Connell|Taissa_Farmiga|Jason_O'Mara|Rosario_Dawson|Stuart_Allan|Rebecca_Romijn|Rainn_Wilson|Tony_Todd;Animation|Action|Science_Fiction
+"637920";"Miracle in Cell No. 7";2019;132;83;Aras_Bulut_İynemli|Nisa_Sofiya_Aksongur|İlker_Aksum|Mesut_Akusta|Yıldıray_Şahinler|Yurdaer_Okur|Sarp_Akkaya|Deniz_Baysal|Deniz_Celiloğlu;Drama
+"10376";"The Legend of 1900";1998;170;83;Tim_Roth|Pruitt_Taylor_Vince|Mélanie_Thierry|Bill_Nunn|Gabriele_Lavia|Clarence_Williams_III|Peter_Vaughan|Alberto_Vazquez;Drama|Music|Romance
+"975";"Paths of Glory";1957;88;83;Kirk_Douglas|Ralph_Meeker|Adolphe_Menjou|George_Macready|Wayne_Morris|Richard_Anderson|Joe_Turkel|Christiane_Kubrick|Jerry_Hausner;Drama|War
+"77338";"The Intouchables";2011;113;83;François_Cluzet|Omar_Sy|Anne_Le_Ny|Clotilde_Mollet|Alba_Gaïa_Bellugi|Audrey_Fleurot|Cyril_Mendy|Christian_Ameri;Drama|Comedy
+"740996";"BLACKPINK: Light Up the Sky";2020;79;83;Kim_Ji_soo|Jennie_Kim|Rosé|Lisa|Teddy_Park;Documentary|Music
+"537061";"Steven Universe: The Movie";2019;82;83;Zach_Callison|Deedee_Magno|Estelle|Michaela_Dietz|Sarah_Stiles|Tom_Scharpling|Uzo_Aduba|Shelby_Rabara|Jennifer_Paz;TV_Movie|Animation|Science_Fiction|Action|Adventure|Comedy|Drama|Fantasy|Music
+"670";"Oldboy";2003;120;83;Choi_Min_sik|Yoo_Ji_tae|Kang_Hye_jung|Kim_Byeong_ok|Ji_Dae_han|Oh_Dal_su|Lee_Seung_shin|Yoon_Jin_seo|Oh_Tae_kyung;Drama|Thriller|Mystery|Action
+"265177";"Mommy";2014;138;83;Anne_Dorval|Antoine_Olivier_Pilon|Suzanne_Clément|Alexandre_Goyette|Michèle_Lituac|Viviane_Pacal|Natalie_Hamel_Roy|Isabelle_Nélisse|Patrick_Huard;Drama
+"299534";"Avengers: Endgame";2019;181;83;Robert_Downey_Jr.|Chris_Evans|Mark_Ruffalo|Chris_Hemsworth|Scarlett_Johansson|Jeremy_Renner|Don_Cheadle|Paul_Rudd|Benedict_Cumberbatch;Adventure|Science_Fiction|Action
+"299536";"Avengers: Infinity War";2018;149;83;Robert_Downey_Jr.|Chris_Hemsworth|Mark_Ruffalo|Chris_Evans|Scarlett_Johansson|Benedict_Cumberbatch|Tom_Holland|Chadwick_Boseman|Don_Cheadle;Adventure|Action|Science_Fiction
+"635302";"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train";2020;117;83;Natsuki_Hanae|Akari_Kito|Hiro_Shimono|Yoshitsugu_Matsuoka|Satoshi_Hino|Takahiro_Sakurai|Katsuyuki_Konishi|Saori_Hayami|Kenichi_Suzumura;Animation|Action|Adventure|Fantasy|Thriller
+"575813";"Better Days";2019;135;83;Zhou_Dongyu|Jackson_Yee|Yin_Fang|Huang_Jue|Wu_Yue|Zhou_Ye|Zhang_Xin_Yi|Zhao_Runnan|Zhang_Yao;Drama
+"508965";"Klaus";2019;96;83;Jason_Schwartzman|J.K._Simmons|Rashida_Jones|Joan_Cusack|Norm_Macdonald|Will_Sasso|Sergio_Pablos;Animation|Family|Adventure|Comedy|Fantasy
+"8587";"The Lion King";1994;89;83;Jonathan_Taylor_Thomas|Matthew_Broderick|James_Earl_Jones|Jeremy_Irons|Moira_Kelly|Ernie_Sabella|Nathan_Lane|Robert_Guillaume|Rowan_Atkinson;Family|Animation|Drama
+"1585";"It's a Wonderful Life";1946;130;83;James_Stewart|Donna_Reed|Lionel_Barrymore|Thomas_Mitchell|Henry_Travers|Beulah_Bondi|Frank_Faylen|Ward_Bond|Gloria_Grahame;Drama|Family|Fantasy
+"797";"Persona";1966;83;82;Bibi_Andersson|Liv_Ullmann|Margaretha_Krook|Gunnar_Björnstrand|Jörgen_Lindström;Drama
+"42269";"We All Loved Each Other So Much";1974;124;82;Nino_Manfredi|Vittorio_Gassman|Stefania_Sandrelli|Stefano_Satta_Flores|Giovanna_Ralli|Aldo_Fabrizi|Marcella_Michelangeli|Elena_Fabrizi|Fiammetta_Baralla;Drama|Comedy
+"290098";"The Handmaiden";2016;145;82;Kim_Min_hee|Kim_Tae_ri|Ha_Jung_woo|Cho_Jin_woong|Kim_Hae_sook|Moon_So_ri|Lee_Yong_nyeo|Lee_Dong_hwi;Thriller|Drama|Romance
+"803";"Night and Fog";1956;32;82;Michel_Bouquet|Reinhard_Heydrich|Heinrich_Himmler|Adolf_Hitler|Julius_Streicher;History|Documentary|War
+"504253";"I Want to Eat Your Pancreas";2018;108;82;Mahiro_Takasugi|Lynn|Jun_Fukushima|Shin_ichiro_Miki|Atsuko_Tanaka|Yuma_Uchida|Yukiyo_Fujii|Emi_Wakui;Animation|Drama|Romance
+"14002";"Baraka";1992;97;82;;Documentary
+"490132";"Green Book";2018;130;82;Viggo_Mortensen|Mahershala_Ali|Linda_Cardellini|Sebastian_Maniscalco|Dimiter_D._Marinov|Mike_Hatton|P.J._Byrne|Joe_Cortese|Maggie_Nixon;Drama|Comedy
+"110420";"Wolf Children";2012;117;82;Haru_Kuroki|Yukito_Nishii|Aoi_Miyazaki|Takao_Osawa|Momoka_Ohno|Amon_Kabe|Takuma_Hiraoka|Megumi_Hayashibara|Tadashi_Nakamura;Animation|Family|Drama|Fantasy|Adventure
+"556574";"Hamilton";2020;160;82;Lin_Manuel_Miranda|Leslie_Odom_Jr.|Renée_Elise_Goldsberry|Phillipa_Soo|Daveed_Diggs|Christopher_Jackson|Jasmine_Cephas_Jones|Okieriete_Onaodowan|Anthony_Ramos;History|Drama
+"24188";"Il Sorpasso";1962;105;82;Vittorio_Gassman|Jean_Louis_Trintignant|Catherine_Spaak|Claudio_Gora|Luciana_Angiolillo|Linda_Sini|Franca_Polesello|Lilly_Darelli;Drama|Comedy
+"5156";"Bicycle Thieves";1948;89;82;Lamberto_Maggiorani|Enzo_Staiola|Lianella_Carell|Elena_Altieri|Gino_Saltamerenda|Giulio_Chiari|Vittorio_Antonucci;Drama
+"572154";"Rascal Does Not Dream of a Dreaming Girl";2019;90;82;Kaito_Ishikawa|Asami_Seto|Yurika_Kubo|Nao_Toyama|Atsumi_Tanezaki|Maaya_Uchida|Inori_Minase|Himika_Akaneya|Yuma_Uchida;Animation|Comedy|Romance|Drama|Fantasy
+"37257";"Witness for the Prosecution";1957;116;82;Charles_Laughton|Tyrone_Power|Marlene_Dietrich|Elsa_Lanchester|John_Williams|Ian_Wolfe|Torin_Thatcher|Norma_Varden|Henry_Daniell;Drama|Mystery|Crime
+"354912";"Coco";2017;105;82;Anthony_Gonzalez|Gael_García_Bernal|Benjamin_Bratt|Alanna_Ubach|Renée_Victor|Ana_Ofelia_Murguía|Edward_James_Olmos|Jaime_Camil|Alfonso_Arau;Family|Animation|Fantasy|Music|Comedy|Adventure
+"522924";"The Art of Racing in the Rain";2019;109;82;Milo_Ventimiglia|Kevin_Costner|Amanda_Seyfried|Martin_Donovan|Ian_Lake|Gary_Cole|Kathy_Baker|McKinley_Belcher_III|Ryan_Kiera_Armstrong;Drama|Romance|Comedy
+"284";"The Apartment";1960;125;82;Jack_Lemmon|Shirley_MacLaine|Fred_MacMurray|Ray_Walston|Jack_Kruschen|David_Lewis|Hope_Holiday|Joan_Shawlee|Naomi_Stevens;Comedy|Drama|Romance
+"555604";"Guillermo del Toro's Pinocchio";2022;117;82;Gregory_Mann|Ewan_McGregor|David_Bradley|Christoph_Waltz|Tilda_Swinton|Ron_Perlman|Finn_Wolfhard|Cate_Blanchett|Tim_Blake_Nelson;Animation|Fantasy|Drama|Music
+"18148";"Tokyo Story";1953;137;82;Chishū_Ryū|Chieko_Higashiyama|Setsuko_Hara|Haruko_Sugimura|Sō_Yamamura|Kuniko_Miyake|Kyōko_Kagawa|Eijirō_Tōno|Nobuo_Nakamura;Drama
+"694";"The Shining";1980;144;82;Jack_Nicholson|Shelley_Duvall|Scatman_Crothers|Danny_Lloyd|Philip_Stone|Joe_Turkel|Barry_Nelson|Barry_Dennen|Tony_Burton;Horror|Thriller
+"185";"A Clockwork Orange";1971;137;82;Malcolm_McDowell|Patrick_Magee|Adrienne_Corri|Miriam_Karlin|Michael_Bates|Warren_Clarke|John_Clive|Carl_Duering|Paul_Farrell;Science_Fiction|Drama
+"490";"The Seventh Seal";1957;96;82;Gunnar_Björnstrand|Bengt_Ekerot|Nils_Poppe|Max_von_Sydow|Bibi_Andersson|Inga_Landgré|Åke_Fridell|Inga_Gill|Maud_Hansson;Fantasy|Drama
+"16869";"Inglourious Basterds";2009;153;82;Brad_Pitt|Mélanie_Laurent|Christoph_Waltz|Eli_Roth|Michael_Fassbender|Diane_Kruger|Daniel_Brühl|Til_Schweiger|Gedeon_Burkhard;Drama|Thriller|War
+"791373";"Zack Snyder's Justice League";2021;242;82;Ben_Affleck|Henry_Cavill|Gal_Gadot|Jason_Momoa|Ezra_Miller|Ray_Fisher|Amy_Adams|Jeremy_Irons|Connie_Nielsen;Action|Adventure|Fantasy
+"592350";"My Hero Academia: Heroes Rising";2019;104;82;Daiki_Yamashita|Nobuhiko_Okamoto|Yoshio_Inoue|Mio_Imada|Yuka_Terasaki|Tomoyo_Kurosawa|Yuki_Kaji|Kaito_Ishikawa|Ayane_Sakura;Animation|Action|Fantasy|Adventure
+"857";"Saving Private Ryan";1998;169;82;Tom_Hanks|Tom_Sizemore|Edward_Burns|Matt_Damon|Barry_Pepper|Adam_Goldberg|Vin_Diesel|Giovanni_Ribisi|Ted_Danson;Drama|History|War
+"11";"Star Wars";1977;121;82;Mark_Hamill|Harrison_Ford|Carrie_Fisher|Peter_Cushing|Alec_Guinness|Anthony_Daniels|Kenny_Baker|Peter_Mayhew|David_Prowse;Adventure|Action|Science_Fiction
+"10098";"The Kid";1921;68;82;Charlie_Chaplin|Jackie_Coogan|Edna_Purviance|Carl_Miller|Albert_Austin|Charles_Reisner|Lita_Grey|Beulah_Bains|Nellie_Bly_Baker;Comedy|Drama
+"755812";"Miraculous World: New York, United HeroeZ";2020;62;82;Anouck_Hautbois|Benjamin_Bollen|Antoine_Tomé|Fanny_Bloc|Thierry_Kazazian|Marie_Nonnenmacher|Martial_Le_Minoux|Céline_Melloul;Animation|TV_Movie|Fantasy|Action
+"1398";"Stalker";1979;162;82;Aleksandr_Kaydanovskiy|Anatoliy_Solonitsyn|Nikolay_Grinko|Alisa_Freyndlikh|Natasha_Abramova|Faime_Jurno;Science_Fiction|Drama
+"98";"Gladiator";2000;155;82;Russell_Crowe|Joaquin_Phoenix|Connie_Nielsen|Oliver_Reed|Richard_Harris|Derek_Jacobi|Djimon_Hounsou|David_Schofield|John_Shrapnel;Action|Drama|Adventure
+"1124";"The Prestige";2006;130;82;Hugh_Jackman|Christian_Bale|Michael_Caine|Scarlett_Johansson|Rebecca_Hall|David_Bowie|Andy_Serkis|Piper_Perabo|Jim_Piddock;Drama|Mystery|Science_Fiction
+"603";"The Matrix";1999;136;82;Keanu_Reeves|Laurence_Fishburne|Carrie_Anne_Moss|Hugo_Weaving|Joe_Pantoliano|Marcus_Chong|Anthony_Ray_Parker|Matt_Doran|Gloria_Foster;Action|Science_Fiction
+"313106";"Doctor Who: The Day of the Doctor";2013;77;82;Matt_Smith|David_Tennant|John_Hurt|Jenna_Coleman|Billie_Piper|William_Hartnell|Patrick_Troughton|Jon_Pertwee|Tom_Baker;Science_Fiction|Adventure
+"50014";"The Help";2011;146;82;Emma_Stone|Viola_Davis|Octavia_Spencer|Bryce_Dallas_Howard|Jessica_Chastain|Anna_Camp|Ahna_O'Reilly|Allison_Janney|Mary_Steenburgen;Drama
+"422";"8½";1963;139;82;Marcello_Mastroianni|Claudia_Cardinale|Anouk_Aimée|Sandra_Milo|Rossella_Falk|Barbara_Steele|Madeleine_Lebeau|Caterina_Boratto|Eddra_Gale;Fantasy|Drama
+"629";"The Usual Suspects";1995;106;82;Gabriel_Byrne|Stephen_Baldwin|Kevin_Spacey|Chazz_Palminteri|Kevin_Pollak|Pete_Postlethwaite|Suzy_Amis|Giancarlo_Esposito|Benicio_del_Toro;Drama|Crime|Thriller
+"518068";"Along with the Gods: The Last 49 Days";2018;141;82;Ha_Jung_woo|Ju_Ji_hoon|Kim_Hyang_gi|Ma_Dong_seok|Kim_Dong_wook|Lee_Jung_jae|Jo_Han_chul|Im_Won_hee|Nam_Il_woo;Fantasy|Action|Thriller|Adventure
+"11324";"Shutter Island";2010;138;82;Leonardo_DiCaprio|Mark_Ruffalo|Ben_Kingsley|Michelle_Williams|Emily_Mortimer|Patricia_Clarkson|Max_von_Sydow|Jackie_Earle_Haley|John_Carroll_Lynch;Drama|Thriller|Mystery
+"774372";"ariana grande: excuse me, i love you";2020;97;82;Ariana_Grande|Cory_Graves;Music|Documentary
+"810693";"Jujutsu Kaisen 0";2021;105;82;Megumi_Ogata|Kana_Hanazawa|Yuichi_Nakamura|Takahiro_Sakurai|Mikako_Komatsu|Koki_Uchiyama|Tomokazu_Seki|Mitsuo_Iwata;Animation|Action|Fantasy
+"762975";"Purple Hearts";2022;122;82;Sofia_Carson|Nicholas_Galitzine|John_Harlan_Kim|Chosen_Jacobs|Anthony_Ippolito|Linden_Ashby|Kat_Cunning|Nicholas_Duvernay|Scott_Deckert;Romance|Drama
+"476292";"Maquia: When the Promised Flower Blooms";2018;115;82;Manaka_Iwami|Miyu_Irino|Tomokazu_Sugita|Yoshimasa_Hosoya|Miyuki_Sawashiro|Rina_Satou|Ai_Kayano|Hiroaki_Hirata|Yoko_Hikasa;Animation|Fantasy|Romance|Drama
+"324786";"Hacksaw Ridge";2016;139;82;Andrew_Garfield|Sam_Worthington|Vince_Vaughn|Teresa_Palmer|Luke_Bracey|Hugo_Weaving|Ryan_Corr|Rachel_Griffiths|Richard_Roxburgh;Drama|History|War
+"426";"Vertigo";1958;128;82;James_Stewart|Kim_Novak|Barbara_Bel_Geddes|Tom_Helmore|Henry_Jones|Raymond_Bailey|Ellen_Corby|Konstantin_Shayne|Lee_Patrick;Mystery|Romance|Thriller
+"77";"Memento";2000;113;82;Guy_Pearce|Carrie_Anne_Moss|Joe_Pantoliano|Mark_Boone_Junior|Russ_Fega|Jorja_Fox|Stephen_Tobolowsky|Harriet_Sansom_Harris|Thomas_Lennon;Mystery|Thriller
+"26451";"Investigation of a Citizen Above Suspicion";1970;111;82;Gian_Maria_Volonté|Florinda_Bolkan|Gianni_Santuccio|Orazio_Orlando|Sergio_Tramonti|Arturo_Dominici|Massimo_Foschi|Aleka_Paizi;Drama|Thriller
+"664767";"Mortal Kombat Legends: Scorpion's Revenge";2020;80;82;Patrick_Seitz|Jordan_Rodrigues|Jennifer_Carpenter|Joel_McHale|Ike_Amadi|Steve_Blum|Artt_Butler|Darin_De_Paul|Robin_Atkin_Downes;Animation|Action|Fantasy
+"593691";"Homecoming: A Film by Beyoncé";2019;137;82;Beyoncé|Jay_Z|Kelly_Rowland|Solange|Blue_Ivy_Carter|Michelle_Williams;Documentary|Music
+"531428";"Portrait of a Lady on Fire";2019;120;82;Noémie_Merlant|Adèle_Haenel|Luàna_Bajrami|Valeria_Golino|Christel_Baras|Armande_Boulanger|Guy_Delamarche|Clément_Bouyssou|Michèle_Clément;Drama|Romance
+"2457";"Children of Paradise";1945;191;82;Arletty|Jean_Louis_Barrault|Pierre_Brasseur|María_Casares|Marcel_Herrand|Louis_Salou|Pierre_Renoir|Jane_Marken|Gaston_Modot;Drama|Romance
+"517814";"Capernaum";2018;126;82;Zain_Al_Rafeea|Yordanos_Shifera|Boluwatife_Treasure_Bankole|Nadine_Labaki;Drama
+"470044";"The Hate U Give";2018;133;82;Amandla_Stenberg|Regina_Hall|Russell_Hornsby|K.J._Apa|Common|Anthony_Mackie|Algee_Smith|Lamar_Johnson|Issa_Rae;Crime|Drama
+"654299";"Out of the Clear Blue Sky";2019;112;82;Omar_Chaparro|Ana_Claudia_Talancón|Stephanie_Cayo|Lupita_Sandoval|Yare_Santana|Angélica_María|Manuel_'Flaco'_Ibáñez;Comedy|Drama|Music
+"20532";"Sansho the Bailiff";1954;124;82;Kinuyo_Tanaka|Yoshiaki_Hanayagi|Kyōko_Kagawa|Eitarō_Shindō|Akitake_Kôno|Masahiko_Tsugawa|Masao_Shimizu;Drama
+"289";"Casablanca";1942;102;82;Humphrey_Bogart|Ingrid_Bergman|Paul_Henreid|Claude_Rains|Conrad_Veidt|Sydney_Greenstreet|Peter_Lorre|S.Z._Sakall|Madeleine_Lebeau;Drama|Romance
+"399106";"Piper";2016;6;82;;Family|Animation
+"398818";"Call Me by Your Name";2017;132;82;Timothée_Chalamet|Armie_Hammer|Michael_Stuhlbarg|Amira_Casar|Esther_Garrel|Victoire_Du_Bois|Vanda_Capriolo|Antonio_Rimoldi|Elena_Bucci;Romance|Drama
+"475557";"Joker";2019;122;82;Joaquin_Phoenix|Robert_De_Niro|Zazie_Beetz|Frances_Conroy|Brett_Cullen|Shea_Whigham|Bill_Camp|Glenn_Fleshler|Leigh_Gill;Crime|Thriller|Drama
+"823754";"Bo Burnham: Inside";2021;87;82;Bo_Burnham;Comedy|Drama
+"872";"Singin' in the Rain";1952;103;82;Gene_Kelly|Donald_O'Connor|Debbie_Reynolds|Jean_Hagen|Millard_Mitchell|Cyd_Charisse|Douglas_Fowley|Rita_Moreno|Mae_Clarke;Comedy|Music|Romance|Drama
+"620683";"My Mom is a Character 3";2019;111;82;Paulo_Gustavo|Rodrigo_Pandolfo|Mariana_Xavier|Herson_Capri|Alexandra_Richter|Samantha_Schmütz|Patrícya_Travassos|Malu_Valle|Bruno_Bebianno;Comedy
+"1422";"The Departed";2006;151;82;Jack_Nicholson|Leonardo_DiCaprio|Matt_Damon|Mark_Wahlberg|Vera_Farmiga|Martin_Sheen|Ray_Winstone|Anthony_Anderson|Alec_Baldwin;Drama|Thriller|Crime
+"111";"Scarface";1983;169;82;Al_Pacino|Steven_Bauer|Michelle_Pfeiffer|Mary_Elizabeth_Mastrantonio|Robert_Loggia|Miriam_Colon|F._Murray_Abraham|Paul_Shenar|Harris_Yulin;Action|Crime|Drama
+"103";"Taxi Driver";1976;114;82;Robert_De_Niro|Jodie_Foster|Albert_Brooks|Harvey_Keitel|Leonard_Harris|Peter_Boyle|Cybill_Shepherd|Diahnne_Abbott|Frank_Adu;Crime|Drama
+"68718";"Django Unchained";2012;165;82;Jamie_Foxx|Christoph_Waltz|Leonardo_DiCaprio|Kerry_Washington|Samuel_L._Jackson|Walton_Goggins|Dennis_Christopher|James_Remar|David_Steen;Drama|Western
+"606856";"Togo";2019;113;82;Willem_Dafoe|Julianne_Nicholson|Christopher_Heyerdahl|Richard_Dormer|Adrien_Dorval|Michael_Greyeyes|Nive_Nielsen|Nikolai_Nikolaeff;Adventure|Family
+"406997";"Wonder";2017;113;82;Jacob_Tremblay|Julia_Roberts|Owen_Wilson|Izabela_Vidovic|Noah_Jupe|Millie_Davis|Bryce_Gheisar|Mandy_Patinkin|Danielle_Rose_Russell;Drama|Family
+"92060";"Michael Jackson's Thriller";1983;13;82;Michael_Jackson|Ola_Ray|Vincent_Price|Cynthia_Garris|Mick_Garris|Forrest_J._Ackerman;Horror|Music
+"508442";"Soul";2020;101;82;Jamie_Foxx|Tina_Fey|Graham_Norton|Rachel_House|Alice_Braga|Richard_Ayoade|Phylicia_Rashād|Donnell_Rawlings|Questlove;Animation|Family|Comedy|Fantasy|Drama
+"532067";"KONOSUBA ŌĆō God's blessing on this wonderful world! Legend of Crimson";2019;90;82;Jun_Fukushima|Rie_Takahashi|Sora_Amamiya|Ai_Kayano|Yui_Horie|Aki_Toyosaki|Akeno_Watanabe|Hiroki_Takahashi|Mamiko_Noto;Animation|Adventure|Comedy|Fantasy
+"19";"Metropolis";1927;149;82;Gustav_Fröhlich|Brigitte_Helm|Alfred_Abel|Rudolf_Klein_Rogge|Theodor_Loos|Fritz_Rasp|Erwin_Biswanger|Heinrich_George;Drama|Science_Fiction
+"705";"All About Eve";1950;139;82;Bette_Davis|Anne_Baxter|George_Sanders|Celeste_Holm|Gary_Merrill|Hugh_Marlowe|Thelma_Ritter|Gregory_Ratoff|Marilyn_Monroe;Drama
+"600354";"The Father";2020;96;82;Anthony_Hopkins|Olivia_Colman|Mark_Gatiss|Olivia_Williams|Imogen_Poots|Rufus_Sewell|Ayesha_Dharker|Evie_Wray;Drama
+"666";"Central Station";1998;110;82;Fernanda_Montenegro|Vinícius_de_Oliveira|Marília_Pêra|Othon_Bastos|Otávio_Augusto|Matheus_Nachtergaele|Caio_Junqueira|Stela_Freitas;Drama
+"20914";"My Friends";1975;140;81;Ugo_Tognazzi|Gastone_Moschin|Philippe_Noiret|Duilio_Del_Prete|Adolfo_Celi|Bernard_Blier|Marisa_Traversi|Milena_Vukotić|Franca_Tamantini;Comedy
+"447365";"Guardians of the Galaxy Vol. 3";2023;150;81;Chris_Pratt|Zoe_Saldaña|Dave_Bautista|Karen_Gillan|Pom_Klementieff|Vin_Diesel|Bradley_Cooper|Sean_Gunn|Chukwudi_Iwuji;Science_Fiction|Adventure|Action
+"489";"Good Will Hunting";1997;127;81;Matt_Damon|Robin_Williams|Ben_Affleck|Stellan_Skarsgård|Minnie_Driver|Casey_Affleck|Cole_Hauser|Vik_Sahay;Drama
+"996";"Double Indemnity";1944;107;81;Fred_MacMurray|Barbara_Stanwyck|Edward_G._Robinson|Porter_Hall|Richard_Gaines|Jean_Heather|Tom_Powers|Fortunio_Bonanova|Byron_Barr;Crime|Drama|Mystery|Thriller
+"614";"Wild Strawberries";1957;91;81;Victor_Sjöström|Bibi_Andersson|Ingrid_Thulin|Gunnar_Björnstrand|Jullan_Kindahl|Folke_Sundquist|Björn_Bjelfvenstam|Naima_Wifstrand|Gunnel_Broström;Drama
+"439";"La Dolce Vita";1960;176;81;Marcello_Mastroianni|Anita_Ekberg|Anouk_Aimée|Yvonne_Furneaux|Magali_Noël|Alain_Cuny|Annibale_Ninchi|Walter_Santesso|Valeria_Ciangottini;Comedy|Drama
+"20941";"Innocent Voices";2005;120;81;Carlos_Padilla|Leonor_Varela|José_María_Yázpik|Ofelia_Medina|Daniel_Giménez_Cacho|Jesús_Ochoa;Drama|War
+"550776";"Believe Me: The Abduction of Lisa McVey";2021;98;81;Katie_Douglas|David_James_Elliott|Rossif_Sutherland|Amanda_Arcuri|Chris_Owens|Bruno_Verdoni|Megan_Fahlenbock|Jamie_Robinson;Drama|TV_Movie
+"11878";"Yojimbo";1961;110;81;Toshirō_Mifune|Tatsuya_Nakadai|Yōko_Tsukasa|Isuzu_Yamada|Daisuke_Katō|Seizaburō_Kawazu|Takashi_Shimura|Hiroshi_Tachikawa|Yōsuke_Natsuki;Drama|Thriller
+"348";"Alien";1979;117;81;Tom_Skerritt|Sigourney_Weaver|Veronica_Cartwright|Harry_Dean_Stanton|John_Hurt|Ian_Holm|Yaphet_Kotto|Bolaji_Badejo|Helen_Horton;Horror|Science_Fiction
+"55823";"The Great War";1959;130;81;Vittorio_Gassman|Alberto_Sordi|Silvana_Mangano|Folco_Lulli|Bernard_Blier|Romolo_Valli|Vittorio_Sanipoli|Nicola_Arigliano|Mario_Valdemarin;Drama|Comedy|War
+"500";"Reservoir Dogs";1992;99;81;Harvey_Keitel|Tim_Roth|Michael_Madsen|Chris_Penn|Steve_Buscemi|Lawrence_Tierney|Randy_Brooks|Kirk_Baltz|Edward_Bunker;Crime|Thriller
+"600";"Full Metal Jacket";1987;117;81;Matthew_Modine|Adam_Baldwin|Vincent_D'Onofrio|R._Lee_Ermey|Dorian_Harewood|Arliss_Howard|Kevyn_Major_Howard|Ed_O'Ross|John_Terry;Drama|War
+"935";"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb";1964;95;81;Peter_Sellers|George_C._Scott|Sterling_Hayden|Keenan_Wynn|Slim_Pickens|Peter_Bull|James_Earl_Jones|Tracy_Reed|Jack_Creley;Drama|Comedy|War
+"831827";"Far from the Tree";2021;7;81;;Animation|Family
+"548";"Rashomon";1950;88;81;Toshirō_Mifune|Machiko_Kyō|Takashi_Shimura|Masayuki_Mori|Minoru_Chiaki|Kichijirô_Ueda|Noriko_Honma|Daisuke_Katō;Crime|Drama|Mystery
+"100";"Lock, Stock and Two Smoking Barrels";1998;105;81;Jason_Flemyng|Dexter_Fletcher|Nick_Moran|Jason_Statham|Vinnie_Jones|Sting|Steven_Mackintosh|Nicholas_Rowe;Comedy|Crime
+"640344";"Me Against You: Mr. S's Vendetta";2020;64;81;Sofia_Scalia|Luigi_Calagna|Antonella_Carone|Michele_Savoia|Giustina_Buonomo;Family|Fantasy
+"37165";"The Truman Show";1998;103;81;Jim_Carrey|Laura_Linney|Noah_Emmerich|Natascha_McElhone|Holland_Taylor|Ed_Harris|Paul_Giamatti|Brian_Delate|Peter_Krause;Comedy|Drama
+"472454";"Ayla: The Daughter of War";2017;125;81;İsmail_Hacıoğlu|Kim_Seol|Çetin_Tekindor|Ali_Atay|Murat_Yildirim|Taner_Birsel|Altan_Erkekli|Meral_Çetinkaya|Damla_Sönmez;Drama|War|History
+"411088";"The Invisible Guest";2017;107;81;Mario_Casas|Ana_Wagener|Jose_Coronado|Bárbara_Lennie|Francesc_Orella|Paco_Tous|David_Selvas|Iñigo_Gastesi;Drama|Mystery|Thriller
+"895";"Andrei Rublev";1966;205;81;Anatoliy_Solonitsyn|Ivan_Lapikov|Nikolay_Grinko|Nikolai_Sergeyev|Irma_Raush|Nikolay_Burlyaev|Yuriy_Nazarov|Yuriy_Nikulin|Rolan_Bykov;Drama|History
+"21634";"Prayers for Bobby";2009;90;81;Ryan_Kelley|Sigourney_Weaver|Henry_Czerny|Dan_Butler|Austin_Nichols|Carly_Schroeder|Shannon_Eagen|Scott_Bailey|Rebecca_Louise_Miller;Drama|History|TV_Movie
+"992";"Sherlock Jr.";1924;45;81;Buster_Keaton|Kathryn_McGuire|Joe_Keaton|Ward_Crane|George_Davis|Kewpie_Morgan;Action|Comedy|Mystery
+"843";"In the Mood for Love";2000;99;81;Maggie_Cheung|Tony_Leung_Chiu_wai|Rebecca_Pan|Kelly_Lai_Chen|Chin_Tsi_Ang|Joe_Cheung_Tung_cho;Drama|Romance
+"239";"Some Like It Hot";1959;122;81;Tony_Curtis|Jack_Lemmon|Marilyn_Monroe|George_Raft|Pat_O’Brien|Joe_E._Brown|Nehemiah_Persoff|Joan_Shawlee;Comedy|Music|Romance|Crime
+"400608";"Bo Burnham: Make Happy";2016;60;81;Bo_Burnham|Lorene_Scafaria;Comedy|Music
+"24382";"Big Deal on Madonna Street";1958;106;81;Vittorio_Gassman|Renato_Salvatori|Memmo_Carotenuto|Rossana_Rory|Carla_Gravina|Claudia_Cardinale|Marcello_Mastroianni|Totò|Carlo_Pisacane;Comedy|Crime
+"397567";"Along with the Gods: The Two Worlds";2017;139;81;Ha_Jung_woo|Cha_Tae_hyun|Ju_Ji_hoon|Kim_Hyang_gi|Lee_Jung_jae|Kim_Dong_wook|Ye_Soo_jung|Oh_Dal_su|Im_Won_hee;Action|Adventure|Fantasy|Thriller
+"38288";"I corti";1996;120;81;Aldo_Baglio|Giacomo_Poretti|Giovanni_Storti|Marina_Massironi;Comedy
+"12445";"Harry Potter and the Deathly Hallows: Part 2";2011;130;81;Daniel_Radcliffe|Rupert_Grint|Emma_Watson|Helena_Bonham_Carter|Robbie_Coltrane|Warwick_Davis|Ralph_Fiennes|Michael_Gambon|John_Hurt;Fantasy|Adventure
+"9702";"Bound by Honor";1993;190;81;Damian_Chapa|Jesse_Borrego|Benjamin_Bratt|Enrique_Castillo|Victor_Rivers|Delroy_Lindo|Tom_Towles|Carlos_Carrasco|Teddy_Wilson;Crime|Action|Drama|Thriller
+"81481";"Silenced";2011;125;81;Gong_Yoo|Jung_Yu_mi|Kim_Hyun_soo|Baek_Seung_hwan|Jang_Gwang|Kim_Joo_ryoung|Kim_Min_sang|Lim_Hyun_sung;Drama
+"149871";"The Tale of The Princess Kaguya";2013;137;81;Aki_Asakura|Takeo_Chii|Nobuko_Miyamoto|Kengo_Kora|Atsuko_Takahata|Tomoko_Tabata|Shinosuke_Tatekawa|Takaya_Kamikawa|Hikaru_Ijūin;Animation|Drama|Fantasy
+"58496";"Senna";2010;106;81;Ayrton_Senna|Alain_Prost|Frank_Williams|Ron_Dennis|Viviane_Senna|Milton_da_Silva|Jackie_Stewart;Documentary|History
+"15584";"Dear Zachary: A Letter to a Son About His Father";2008;95;81;Kurt_Kuenne|Andrew_Bagby|Zachary_Andrew_Turner;Documentary|Crime
+"655";"Paris, Texas";1984;145;81;Harry_Dean_Stanton|Nastassja_Kinski|Dean_Stockwell|Hunter_Carson|Aurore_Clément|Bernhard_Wicki|John_Lurie;Drama
+"832";"M";1931;109;81;Peter_Lorre|Ellen_Widmann|Inge_Landgut|Otto_Wernicke|Theodor_Loos|Gustaf_Gründgens|Fritz_Odemar|Paul_Kemp;Drama|Action|Thriller|Crime
+"38";"Eternal Sunshine of the Spotless Mind";2004;108;81;Jim_Carrey|Kate_Winslet|Kirsten_Dunst|Mark_Ruffalo|Elijah_Wood|Tom_Wilkinson|Jane_Adams|David_Cross|Deirdre_O'Connell;Science_Fiction|Drama|Romance
+"265297";"The Salt of the Earth";2014;110;81;Sebastião_Salgado|Wim_Wenders|Juliano_Ribeiro_Salgado|Lélia_Wanick_Salgado;Documentary
+"46738";"Incendies";2010;131;81;Lubna_Azabal|Mélissa_Désormeaux_Poulin|Maxim_Gaudette|Rémy_Girard|Allen_Altman|Abdelghafour_Elaaziz;Drama|War|Mystery
+"280";"Terminator 2: Judgment Day";1991;137;81;Arnold_Schwarzenegger|Linda_Hamilton|Edward_Furlong|Robert_Patrick|Joe_Morton|Earl_Boen|S._Epatha_Merkerson|Castulo_Guerra|Danny_Cooksey;Action|Thriller|Science_Fiction
+"7345";"There Will Be Blood";2007;158;81;Daniel_Day_Lewis|Paul_Dano|Kevin_J._O'Connor|Ciarán_Hinds|Dillon_Freasier|Hope_Elizabeth_Reeves|Colleen_Foy|Barry_Del_Sherman|David_Willis;Drama
+"103663";"The Hunt";2012;116;81;Mads_Mikkelsen|Thomas_Bo_Larsen|Annika_Wedderkopp|Lasse_Fogelstrøm|Susse_Wold|Anne_Louise_Hassing|Lars_Ranthe|Alexandra_Rapaport|Sebastian_Bull_Sarning;Drama
+"359940";"Three Billboards Outside Ebbing, Missouri";2017;115;81;Frances_McDormand|Woody_Harrelson|Sam_Rockwell|Lucas_Hedges|Abbie_Cornish|Caleb_Landry_Jones|Peter_Dinklage|John_Hawkes|Samara_Weaving;Crime|Drama
+"334543";"Lion";2016;118;81;Dev_Patel|Rooney_Mara|David_Wenham|Nicole_Kidman|Divian_Ladwa|Priyanka_Bose|Deepti_Naval|Tannishtha_Chatterjee;Drama
+"62";"2001: A Space Odyssey";1968;149;81;Keir_Dullea|Gary_Lockwood|William_Sylvester|Douglas_Rain|Daniel_Richter|Leonard_Rossiter|Margaret_Tyzack|Robert_Beatty|Sean_Sullivan;Science_Fiction|Mystery|Adventure
+"31225";"Paris Is Burning";1991;71;81;;Documentary
+"4348";"Pride & Prejudice";2005;127;81;Keira_Knightley|Matthew_Macfadyen|Brenda_Blethyn|Donald_Sutherland|Rosamund_Pike|Jena_Malone|Carey_Mulligan|Talulah_Riley|Tom_Hollander;Drama|Romance
+"663558";"New Gods: Nezha Reborn";2021;116;81;Yang_Tianxiang|He_Zhang|Li_Shimeng|Zhang_Yaohan|Guo_Haoran;Animation|Action|Fantasy
+"146233";"Prisoners";2013;153;81;Hugh_Jackman|Jake_Gyllenhaal|Maria_Bello|Terrence_Howard|Paul_Dano|Viola_Davis|Melissa_Leo|Dylan_Minnette|Zoë_Soul;Drama|Thriller|Crime
+"387";"Das Boot";1981;150;81;Jürgen_Prochnow|Herbert_Grönemeyer|Klaus_Wennemann|Hubertus_Bengsch|Martin_Semmelrogge|Bernd_Tauber|Erwin_Leder|Martin_May|Heinz_Hoenig;Drama|History|War
+"337404";"Cruella";2021;134;81;Emma_Stone|Emma_Thompson|Joel_Fry|Paul_Walter_Hauser|Mark_Strong|Tipper_Seifert_Cleveland|Kirby_Howell_Baptiste|Emily_Beecham|John_McCrea;Comedy|Crime
+"638507";"How to Train Your Dragon: Homecoming";2019;22;81;Jay_Baruchel|America_Ferrera|Gerard_Butler|Craig_Ferguson|Christopher_Mintz_Plasse;Animation|Fantasy|Adventure|Action|Family
+"10681";"WALL·E";2008;98;81;Ben_Burtt|Elissa_Knight|Jeff_Garlin|Fred_Willard|John_Ratzenberger|Kathy_Najimy|Sigourney_Weaver|Teddy_Newton|Bob_Bergen;Animation|Family|Science_Fiction
+"406";"La Haine";1995;98;81;Vincent_Cassel|Hubert_Koundé|Saïd_Taghmaoui|Abdel_Ahmed_Ghili|Olga_Abrego;Drama
+"147";"The 400 Blows";1959;99;81;Jean_Pierre_Léaud|Claire_Maurier|Albert_Rémy|Georges_Flamant|Patrick_Auffay|Yvonne_Claudie|Pierre_Repp;Drama
+"7347";"Elite Squad";2007;115;81;Wagner_Moura|Caio_Junqueira|André_Ramiro|Milhem_Cortaz|Fernanda_Machado|Maria_Ribeiro|Fábio_Lago|Erick_Oliveira|Marcello_Escorel;Drama|Action|Crime
+"437068";"A Taxi Driver";2017;138;81;Song_Kang_ho|Thomas_Kretschmann|Yoo_Hae_jin|Ryu_Jun_yeol|Park_Hyeok_kwon|Ko_Chang_seok|Jeon_Hye_jin|Choi_Gwi_hwa|Um_Tae_goo;Action|Drama|History
+"8392";"My Neighbor Totoro";1988;86;81;Chika_Sakamoto|Noriko_Hidaka|Hitoshi_Takagi|Shigesato_Itoi|Sumi_Shimamoto|Tanie_Kitabayashi|Masashi_Hirose|Yûko_Maruyama|Shigeru_Chiba;Fantasy|Animation|Family
+"610461";"Veinteañera, Divorciada y Fantástica";2020;93;81;Paulina_Goto|Vadhir_Derbez|Natalia_Téllez|Ela_Velden|Ana_Gonzalez_Bello|Juan_Carlos_Barreto|Claudio_Roca;Comedy
+"11423";"Memories of Murder";2003;131;81;Song_Kang_ho|Kim_Sang_kyung|Kim_Roi_ha|Song_Jae_ho|Byun_Hee_bong|Go_Seo_hee|Ryu_Tae_ho|Park_No_shik|Park_Hae_il;Crime|Drama|Thriller
+"11659";"The Best of Youth";2003;366;81;Luigi_Lo_Cascio|Alessio_Boni|Adriana_Asti|Sonia_Bergamasco|Fabrizio_Gifuni|Maya_Sansa|Valentina_Carnelutti|Jasmine_Trinca|Andrea_Tidona;Drama|History|Romance
+"11645";"Ran";1985;160;81;Tatsuya_Nakadai|Akira_Terao|Jinpachi_Nezu|Daisuke_Ryū|Mieko_Harada|Yoshiko_Miyazaki|Mansai_Nomura|Hisashi_Igawa|Shinnosuke_Ikehata;Action|Drama|History
+"42229";"A Special Day";1977;106;81;Sophia_Loren|Marcello_Mastroianni|John_Vernon|Françoise_Berd|Patrizia_Basso|Vittorio_Guerrieri;Drama|Romance
+"8422";"Rocco and His Brothers";1960;178;81;Alain_Delon|Renato_Salvatori|Annie_Girardot|Katina_Paxinou|Alessandra_Panaro|Spiros_Focás|Max_Cartier|Corrado_Pani;Crime|Drama|Romance
+"89708";"Samsara";2011;102;81;;Documentary
+"678580";"El mesero";2021;86;81;Vadhir_Derbez|Bárbara_López|Arturo_Barba|Emiliano_Zurita|Ignacia_Allamand|Gustavo_Sánchez_Parra|Sabine_Moussier|Guillermo_Villegas;Comedy
+"55960";"Toto, Peppino, and the Hussy";1956;101;81;Totò|Peppino_De_Filippo|Dorian_Gray|Teddy_Reno|Vittoria_Crispo|Mario_Castellani|Nino_Manfredi|Linda_Sini;Comedy|Romance
+"1955";"The Elephant Man";1980;124;81;Anthony_Hopkins|John_Hurt|Anne_Bancroft|John_Gielgud|Wendy_Hiller|Freddie_Jones|Michael_Elphick|Hannah_Gordon|Helen_Ryan;Drama|History
+"780";"The Passion of Joan of Arc";1928;110;81;Maria_Falconetti|Eugène_Silvain|André_Berley|Maurice_Schutz|Antonin_Artaud|Michel_Simon|Armand_Lurville;Drama|History
+"381284";"Hidden Figures";2016;127;81;Taraji_P._Henson|Octavia_Spencer|Janelle_Monáe|Kevin_Costner|Kirsten_Dunst|Jim_Parsons|Mahershala_Ali|Glen_Powell|Ariana_Neal;Drama|History
+"26022";"My Name Is Khan";2010;165;81;Shah_Rukh_Khan|Kajol|Jimmy_Shergill|Zarina_Wahab|Adarsh_Gourav|Tanay_Chheda|Sheetal_Menon|Arif_Zakaria|Arjun_Mathur;Drama|Romance
+"515001";"Jojo Rabbit";2019;108;81;Roman_Griffin_Davis|Thomasin_McKenzie|Scarlett_Johansson|Taika_Waititi|Sam_Rockwell|Rebel_Wilson|Alfie_Allen|Stephen_Merchant|Archie_Yates;Comedy|War|Drama
+"449176";"Love, Simon";2018;110;81;Nick_Robinson|Jennifer_Garner|Josh_Duhamel|Katherine_Langford|Alexandra_Shipp|Logan_Miller|Keiynan_Lonsdale|Jorge_Lendeborg_Jr.|Talitha_Bateman;Comedy|Drama|Romance
+"5801";"Pather Panchali";1955;125;81;Subir_Banerjee|Uma_Das_Gupta|Karuna_Banerjee|Kanu_Bannerjee|Chunibala_Devi|Runki_Banerjee|Aparna_Devi|Tulsi_Chakraborty;Drama|History
+"538362";"On My Skin";2018;100;81;Alessandro_Borghi|Max_Tortora|Jasmine_Trinca|Milvia_Marigliano|Mauro_Conte|Walter_Nestola|Davide_Petrucci;Drama
+"120467";"The Grand Budapest Hotel";2014;100;81;Ralph_Fiennes|F._Murray_Abraham|Tony_Revolori|Mathieu_Amalric|Adrien_Brody|Willem_Dafoe|Jeff_Goldblum|Edward_Norton|Harvey_Keitel;Comedy|Drama
+"615457";"Nobody";2021;92;81;Bob_Odenkirk|Connie_Nielsen|Christopher_Lloyd|Aleksey_Serebryakov|RZA|Michael_Ironside|Colin_Salmon|Billy_MacLellan|Araya_Mengesha;Action|Crime|Thriller
+"785534";"Paper Lives";2021;96;81;Çağatay_Ulusoy|Ersin_Arıcı|Turgay_Tanülkü|Selen_Öztürk|Tomris_Çetinel;Drama
+"400928";"Gifted";2017;101;81;Chris_Evans|Mckenna_Grace|Lindsay_Duncan|Jenny_Slate|Octavia_Spencer|Glenn_Plummer|Julie_Ann_Emery|Joe_Chrest|Keir_O'Donnell;Drama|Comedy
+"310569";"The Second Mother";2015;112;81;Regina_Casé|Camila_Márdila|Karine_Teles|Lourenço_Mutarelli|Michel_Joelsas|Helena_Albergaria|Luis_Miranda|Theo_Werneck;Drama
+"800";"The Young and the Damned";1950;77;81;Alfonso_Mejía|Estela_Inda|Miguel_Inclán|Roberto_Cobo|Alma_Delia_Fuentes;Crime|Drama
+"821";"Judgment at Nuremberg";1961;179;80;Spencer_Tracy|Burt_Lancaster|Richard_Widmark|Marlene_Dietrich|Maximilian_Schell|Judy_Garland|Montgomery_Clift|William_Shatner|Werner_Klemperer;Drama|History|War
+"785084";"The Whale";2022;116;80;Brendan_Fraser|Sadie_Sink|Hong_Chau|Ty_Simpkins|Samantha_Morton|Sathya_Sridharan;Drama
+"522518";"A Dog's Journey";2019;109;80;Marg_Helgenberger|Betty_Gilpin|Henry_Lau|Kathryn_Prescott|Dennis_Quaid|Josh_Gad|Abby_Ryder_Fortson|Ian_Chen;Family|Adventure|Drama
+"574074";"Kitbull";2019;9;80;;Animation|Family|Drama
+"490003";"Won't You Be My Neighbor?";2018;95;80;Joanne_Rogers;Documentary
+"339877";"Loving Vincent";2017;95;80;Douglas_Booth|Eleanor_Tomlinson|Robert_Gulaczyk|Helen_McCrory|Saoirse_Ronan|Chris_O'Dowd|John_Sessions|Jerome_Flynn|Aidan_Turner;Animation|Drama|Mystery|History
+"20530";"Late Spring";1949;110;80;Chishū_Ryū|Setsuko_Hara|Yumeji_Tsukioka|Haruko_Sugimura|Jun_Usami|Kuniko_Miyake|Masao_Mishima|Yoshiko_Tsubouchi;Drama
+"279";"Amadeus";1984;161;80;F._Murray_Abraham|Tom_Hulce|Elizabeth_Berridge|Roy_Dotrice|Simon_Callow|Christine_Ebersole|Jeffrey_Jones|Barbara_Bryne|Cynthia_Nixon;History|Music|Drama
+"9764";"Dersu Uzala";1975;141;80;Yuriy_Solomin|Maksim_Munzuk|Mikhail_Bychkov|Vladimir_Kremena|Aleksandr_Pyatkov|Svetlana_Danilchenko|Suimenkul_Chokmorov;Action|Adventure|Drama
+"1091";"The Thing";1982;109;80;Kurt_Russell|Keith_David|Wilford_Brimley|T.K._Carter|David_Clennon|Richard_Dysart|Charles_Hallahan|Peter_Maloney|Richard_Masur;Horror|Mystery|Science_Fiction
+"582";"The Lives of Others";2006;137;80;Martina_Gedeck|Ulrich_Mühe|Sebastian_Koch|Ulrich_Tukur|Thomas_Thieme|Hans_Uwe_Bauer|Volkmar_Kleinert|Matthias_Brenner|Charly_Hübner;Drama|Thriller
+"1396";"Mirror";1975;107;80;Margarita_Terekhova|Ignat_Daniltsev|Alla_Demidova|Anatoliy_Solonitsyn|Nikolay_Grinko|Tamara_Ogorodnikova|Yuriy_Nazarov|Oleg_Yankovskiy;Drama|History
+"106646";"The Wolf of Wall Street";2013;180;80;Leonardo_DiCaprio|Jonah_Hill|Margot_Robbie|Matthew_McConaughey|Kyle_Chandler|Rob_Reiner|Jon_Favreau|Jean_Dujardin|Jon_Bernthal;Crime|Drama|Comedy
+"264644";"Room";2015;118;80;Brie_Larson|Jacob_Tremblay|Joan_Allen|William_H._Macy|Sean_Bridgers|Tom_McCamus|Amanda_Brugel|Joe_Pingue|Cas_Anvar;Drama|Thriller
+"455661";"In a Heartbeat";2017;4;80;;Family|Animation|Romance|Comedy
+"19426";"Nights of Cabiria";1957;110;80;Giulietta_Masina|François_Périer|Franca_Marzi|Amedeo_Nazzari|Aldo_Silvani|Dorian_Gray|Ennio_Girolami|Franco_Balducci;Drama
+"19542";"The Red Shoes";1948;133;80;Moira_Shearer|Adolf_Wohlbrück|Marius_Goring|Léonide_Massine|Robert_Helpmann|Albert_Bassermann|Esmond_Knight|Ludmilla_Tchérina;Drama|Romance
+"962";"The Gold Rush";1925;95;80;Charlie_Chaplin|Georgia_Hale|Mack_Swain|Tom_Murray|Henry_Bergman|Malcolm_Waite|James_Dime|Charles_Force;Adventure|Comedy|Drama
+"641";"Requiem for a Dream";2000;102;80;Ellen_Burstyn|Jared_Leto|Jennifer_Connelly|Marlon_Wayans|Christopher_McDonald|Keith_David|Louise_Lasser|Marcia_Jean_Kurtz|Janet_Sarno;Crime|Drama
+"429210";"Bingo: The King of the Mornings";2017;113;80;Vladimir_Brichta|Leandra_Leal|Tainá_Müller|Ana_Lúcia_Torre|Augusto_Madeira|Cauã_Martins|Emanuelle_Araújo|Pedro_Bial|Domingos_Montagner;Comedy|Drama
+"938";"For a Few Dollars More";1965;132;80;Clint_Eastwood|Lee_Van_Cleef|Gian_Maria_Volonté|Luigi_Pistilli|Klaus_Kinski|Joseph_Egger|Benito_Stefanelli;Western
+"14";"American Beauty";1999;122;80;Kevin_Spacey|Annette_Bening|Thora_Birch|Wes_Bentley|Mena_Suvari|Chris_Cooper|Allison_Janney|Peter_Gallagher|Scott_Bakula;Drama
+"28978";"The Circus";1928;72;80;Charlie_Chaplin|Al_Ernest_Garcia|Merna_Kennedy|Harry_Crocker|George_Davis|Henry_Bergman|Tiny_Sandford|John_Rand|Steve_Murphy;Comedy|Family|Romance
+"521";"Dial M for Murder";1954;105;80;Ray_Milland|Grace_Kelly|Robert_Cummings|John_Williams|Anthony_Dawson|Leo_Britt|Patrick_Allen;Crime|Thriller
+"204";"The Wages of Fear";1953;153;80;Yves_Montand|Charles_Vanel|Peter_van_Eyck|Folco_Lulli|Véra_Clouzot|Antonio_Centa|Darío_Moreno;Drama|Thriller|Adventure
+"714888";"Argentina, 1985";2022;141;80;Ricardo_Darín|Peter_Lanzani|Alejandra_Flechner|Paula_Ransenberg|Carlos_Portaluppi|Antonia_Bengoechea|Laura_Paredes|Brian_Sichel|Norman_Briski;Drama|History
+"673";"Harry Potter and the Prisoner of Azkaban";2004;141;80;Daniel_Radcliffe|Rupert_Grint|Emma_Watson|Robbie_Coltrane|Michael_Gambon|Richard_Griffiths|Gary_Oldman|Alan_Rickman|Fiona_Shaw;Adventure|Fantasy
+"12761";"Autumn Sonata";1978;93;80;Ingrid_Bergman|Liv_Ullmann|Lena_Nyman|Halvar_Björk|Marianne_Aminoff|Arne_Bang_Hansen|Gunnar_Björnstrand|Erland_Josephson|Linn_Ullmann;Drama
+"9277";"The Sting";1973;129;80;Paul_Newman|Robert_Redford|Robert_Shaw|Charles_Durning|Ray_Walston|Eileen_Brennan|Harold_Gould|John_Heffernan|Dana_Elcar;Comedy|Crime|Drama
+"307";"Rome, Open City";1945;103;80;Aldo_Fabrizi|Anna_Magnani|Marcello_Pagliero|Harry_Feist|Maria_Michi|Vito_Annichiarico;Drama|History|War
+"15";"Citizen Kane";1941;119;80;Orson_Welles|Joseph_Cotten|Dorothy_Comingore|Ray_Collins|George_Coulouris|Agnes_Moorehead|Paul_Stewart|Ruth_Warrick|Erskine_Sanford;Mystery|Drama
+"568160";"Weathering with You";2019;112;80;Kotaro_Daigo|Nana_Mori|Tsubasa_Honda|Sakura_Kiryu|Sei_Hiraizumi|Yuki_Kaji|Chieko_Baisho|Shun_Oguri|Sumi_Shimamoto;Animation|Drama|Fantasy|Romance
+"524";"Casino";1995;179;80;Robert_De_Niro|Sharon_Stone|Joe_Pesci|Don_Rickles|Kevin_Pollak|James_Woods|Alan_King|Pasquale_Cajano|L.Q._Jones;Crime|Drama|History
+"378108";"In This Corner of the World";2016;130;80;Non|Daisuke_Ono|Mayumi_Shintani|Megumi_Han|Natsuki_Inaba|Shigeru_Ushiyama|Yoshimasa_Hosoya;Drama|Animation|Romance|War|History
+"11104";"Chungking Express";1994;103;80;Takeshi_Kaneshiro|Brigitte_Lin|Tony_Leung_Chiu_wai|Faye_Wong|Valerie_Chow|Kwan_Lee_na|Wong_Chi_Ming;Drama|Comedy|Romance
+"458220";"Palmer";2021;110;80;Justin_Timberlake|Ryder_Allen|Juno_Temple|Alisha_Wainwright|June_Squibb|Dean_Winters|Wynn_Everett|Jesse_C._Boyd|Charmin_Lee;Drama
+"110416";"Song of the Sea";2014;93;80;David_Rawle|Lucy_O'Connell|Brendan_Gleeson|Fionnula_Flanagan|Pat_Shortt|Jon_Kenny|Lisa_Hannigan|Liam_Hourican;Family|Animation|Fantasy
+"3175";"Barry Lyndon";1975;185;80;Ryan_O'Neal|Marisa_Berenson|Patrick_Magee|Hardy_Krüger|Diana_Körner|Gay_Hamilton|Frank_Middlemass|Godfrey_Quigley;Drama|Romance|War
+"554596";"No Manches Frida 2";2019;102;80;Omar_Chaparro|Martha_Higareda|Carla_Adell|Fernanda_Castillo|Regina_Pavón|Karen_Furlong|Rosanna_Engel|Claudia_Zepeda|Aarón_Díaz;Comedy
+"359724";"Ford v Ferrari";2019;153;80;Christian_Bale|Matt_Damon|Jon_Bernthal|Caitríona_Balfe|Josh_Lucas|Noah_Jupe|Tracy_Letts|Remo_Girone|Ray_McKinnon;Drama|Action|History
+"595";"To Kill a Mockingbird";1962;129;80;Gregory_Peck|Mary_Badham|Phillip_Alford|John_Megna|Frank_Overton|Brock_Peters|Rosemary_Murphy|Ruth_White|Estelle_Evans;Drama|Crime
+"652722";"In the Arms of an Assassin";2019;101;80;William_Levy|Alicia_Sanz|Roberto_Sosa|Adrián_Lastra|Thanya_López|Mónica_Ayos|Ettore_D'Alessandro;Romance|Thriller
+"315465";"The Boy and the Beast";2015;119;80;Koji_Yakusho|Aoi_Miyazaki|Shota_Sometani|Suzu_Hirose|Lily_Franky|Yo_Oizumi|Kazuhiro_Yamaji|Mamoru_Miyano|Kappei_Yamaguchi;Action|Adventure|Animation|Drama|Family|Fantasy
+"205596";"The Imitation Game";2014;113;80;Benedict_Cumberbatch|Keira_Knightley|Matthew_Goode|Rory_Kinnear|Allen_Leech|Matthew_Beard|Charles_Dance|Mark_Strong|James_Northcote;History|Drama|Thriller|War
+"961";"The General";1926;79;80;Buster_Keaton|Marion_Mack|Glen_Cavender|Jim_Farley|Frederick_Vroom|Joe_Keaton|Al_St._John;Comedy|War
+"140420";"Paperman";2012;7;80;John_Kahrs|Kari_Wahlgren;Animation|Family|Romance
+"11778";"The Deer Hunter";1978;183;80;Robert_De_Niro|Christopher_Walken|John_Cazale|John_Savage|Meryl_Streep|George_Dzundza|Rutanya_Alda|Amy_Wright;Drama|War
+"28178";"Hachi: A Dog's Tale";2009;93;80;Richard_Gere|Joan_Allen|Sarah_Roemer|Cary_Hiroyuki_Tagawa|Erick_Avari|Robbie_Sublett|Davenia_McFadden|Jason_Alexander;Drama|Family
+"634649";"Spider-Man: No Way Home";2021;148;80;Tom_Holland|Zendaya|Benedict_Cumberbatch|Jacob_Batalon|Jon_Favreau|Jamie_Foxx|Willem_Dafoe|Alfred_Molina|Benedict_Wong;Action|Adventure|Science_Fiction
+"488623";"Forgotten";2017;108;80;Kang_Ha_neul|Kim_Moo_yul|Moon_Sung_keun|Na_Young_hee|Nam_Myung_ryeol|Lee_Na_ra|Lee_Soon_won;Thriller|Mystery|Drama
+"424694";"Bohemian Rhapsody";2018;135;80;Rami_Malek|Gwilym_Lee|Ben_Hardy|Joseph_Mazzello|Lucy_Boynton|Aidan_Gillen|Allen_Leech|Tom_Hollander|Mike_Myers;Music|Drama|History
+"13223";"Gran Torino";2008;116;80;Clint_Eastwood|Christopher_Carley|Bee_Vang|Ahney_Her|Brian_Haley|Geraldine_Hughes|Dreama_Walker|Brian_Howe|John_Carroll_Lynch;Drama
+"776503";"CODA";2021;112;80;Emilia_Jones|Marlee_Matlin|Troy_Kotsur|Eugenio_Derbez|Ferdia_Walsh_Peelo|Daniel_Durant|Amy_Forsyth|Kevin_Chapman|John_Fiore;Drama|Music|Romance
+"25376";"The Secret in Their Eyes";2009;130;80;Ricardo_Darín|Soledad_Villamil|Pablo_Rago|Javier_Godino|Guillermo_Francella|Carla_Quevedo|Mario_Alarcón;Crime|Mystery|Thriller|Romance|Drama
+"15244";"A Man Escaped";1956;101;80;François_Leterrier|Charles_Le_Clainche|Maurice_Beerblock|Roland_Monod|Jacques_Ertaud;Thriller|Drama|War|History
+"3090";"The Treasure of the Sierra Madre";1948;126;80;Humphrey_Bogart|Walter_Huston|Tim_Holt|Bruce_Bennett|Barton_MacLane|Alfonso_Bedoya|Arturo_Soto_Rangel|Manuel_Dondé|José_Torvay;Adventure|Drama|Western
+"7508";"Like Stars on Earth";2007;165;80;Darsheel_Safary|Aamir_Khan|Tisca_Chopra|Vipin_Sharma|Tanay_Chheda|Girija_Oak;Drama
+"482321";"Ron's Gone Wrong";2021;107;80;Zach_Galifianakis|Jack_Dylan_Grazer|Ed_Helms|Olivia_Colman|Justice_Smith|Rob_Delaney|Kylie_Cantrall|Ricardo_Hurtado|Marcus_Scribner;Animation|Science_Fiction|Family|Comedy
+"28422";"Love Exposure";2009;237;80;Takahiro_Nishijima|Hikari_Mitsushima|Sakura_Ando|Makiko_Watanabe|Atsuro_Watabe|Yutaka_Shimizu|Hiroyuki_Onoue|Tasuku_Nagaoka|Sow_Hirosawa;Action|Comedy|Drama|Romance
+"18438";"Castaway on the Moon";2009;119;80;Jung_Jae_young|Jung_Ryeo_won|Yang_Mi_kyung|Lee_Sang_hun|Jang_So_yeon|Park_Young_seo|Koo_Kyo_hwan;Drama|Comedy|Romance
+"213";"North by Northwest";1959;136;80;Cary_Grant|Eva_Marie_Saint|James_Mason|Jessie_Royce_Landis|Leo_G._Carroll|Josephine_Hutchinson|Philip_Ober|Martin_Landau|Adam_Williams;Mystery|Thriller
+"426618";"Where Hands Touch";2018;122;80;Amandla_Stenberg|George_MacKay|Abbie_Cornish|Christopher_Eccleston|Tom_Sweet|Alec_Newman|Tom_Goodman_Hill|Natasha_Little|Will_Attenborough;War|Drama|Romance
+"479626";"Avicii: True Stories";2017;97;80;Avicii|David_Guetta|Tiësto|Mike_Einziger|Nile_Rodgers|Wyclef_Jean|Chris_Martin|Aloe_Blacc|Barack_Obama;Music|Documentary
+"530915";"1917";2019;119;80;George_MacKay|Dean_Charles_Chapman|Mark_Strong|Andrew_Scott|Richard_Madden|Claire_Duburcq|Colin_Firth|Benedict_Cumberbatch|Daniel_Mays;War|Drama|History
+"12104";"Pink Floyd: The Wall";1982;95;80;Bob_Geldof|Christine_Hargreaves|James_Laurenson|Eleanor_David|Bob_Hoskins|Jenny_Wright;Music|Drama
+"20453";"3 Idiots";2009;170;80;Aamir_Khan|R._Madhavan|Sharman_Joshi|Kareena_Kapoor_Khan|Boman_Irani|Omi_Vaidya|Rahul_Kumar|Ali_Fazal|Mona_Singh;Drama|Comedy
+"407806";"13th";2016;100;80;Jelani_Cobb|Angela_Davis|Henry_Louis_Gates,_Jr.|Michelle_Alexander|Cory_Booker|Marie_Gottschalk;Documentary
+"43949";"Flipped";2010;89;80;Madeline_Carroll|Callan_McAuliffe|Rebecca_De_Mornay|Anthony_Edwards|John_Mahoney|Penelope_Ann_Miller|Aidan_Quinn|Kevin_Weisman|Morgan_Lily;Romance|Drama
+"550205";"Wish Dragon";2021;99;80;Jimmy_Wong|John_Cho|Constance_Wu|Natasha_Liu_Bordizzo|Jimmy_O._Yang|Aaron_Yoo|Will_Yun_Lee|Bobby_Lee|Nico_Santos;Animation|Family|Comedy|Fantasy
+"11658";"Tae Guk Gi: The Brotherhood of War";2004;148;80;Jang_Dong_gun|Won_Bin|Lee_Eun_ju|Gong_Hyung_jin|Jo_Yoon_hee|Lee_Young_lan|Ahn_Kil_kang;Action|Adventure|Drama|History|War
+"14696";"Ugetsu";1953;96;80;Machiko_Kyō|Mitsuko_Mito|Kinuyo_Tanaka|Masayuki_Mori|Eitarō_Ozawa|Kichijirô_Ueda;Fantasy|Drama|Mystery
+"2517";"Nobody Knows";2004;141;80;Yuya_Yagira|Ayu_Kitaura|Hiei_Kimura|Momoko_Shimizu|Hanae_Kan|YOU|Ryo_Kase|Kazuyoshi_Kushida;Drama
+"237791";"The Way He Looks";2014;96;80;Ghilherme_Lobo|Fábio_Audi|Lúcia_Romano|Eucir_de_Souza|Selma_Egrei|Isabela_Guasco|Victor_Filgueiras|Pedro_Carvalho;Drama|Romance
+"10238";"Cries and Whispers";1972;95;80;Harriet_Andersson|Ingrid_Thulin|Kari_Sylwan|Liv_Ullmann|Erland_Josephson|Anders_Ek|Henning_Moritzen|Georg_Årlin|Ingmar_Bergman;Drama
+"770";"Gone with the Wind";1939;238;80;Vivien_Leigh|Clark_Gable|Olivia_de_Havilland|Leslie_Howard|Hattie_McDaniel|Thomas_Mitchell|Barbara_O'Neil|Evelyn_Keyes|Ann_Rutherford;Drama|War|Romance
+"715931";"Emancipation";2022;132;80;Will_Smith|Ben_Foster|Charmaine_Bingwa|Steven_Ogg|Gilbert_Owuor|Mustafa_Shakir|Grant_Harvey|Ronnie_Gene_Blevins|Jayson_Warner_Smith;Drama
+"29264";"The Exterminating Angel";1962;94;80;Silvia_Pinal|Jacqueline_Andere|José_Baviera|Augusto_Benedico|Luis_Beristáin|Claudio_Brook|César_del_Campo|Bertha_Moss;Comedy|Drama|Fantasy
+"947";"Lawrence of Arabia";1962;228;80;Peter_O'Toole|Alec_Guinness|Anthony_Quinn|Jack_Hawkins|Omar_Sharif|José_Ferrer|Anthony_Quayle|Claude_Rains|Arthur_Kennedy;Adventure|Drama|History|War
+"94047";"My Way";2011;137;80;Jang_Dong_gun|Joe_Odagiri|Fan_Bingbing|Kim_In_kwon|Lee_Yeon_hee|Kim_Hee_won|Oh_Tae_kyung|Kwak_Jung_wook|Kim_Shi_hoo;Drama|Action|History|War
+"1059";"The Hidden Fortress";1958;139;80;Toshirō_Mifune|Minoru_Chiaki|Kamatari_Fujiwara|Misa_Uehara|Susumu_Fujita|Takashi_Shimura|Eiko_Miyoshi|Yū_Fujiki;Adventure|Drama|Action|Comedy
+"242828";"When Marnie Was There";2014;103;80;Sara_Takatsuki|Kasumi_Arimura|Nanako_Matsushima|Susumu_Terajima|Toshie_Negishi|Ryoko_Moriyama|Kazuko_Yoshiyuki|Hitomi_Kuroki|Hiroyuki_Morisaki;Animation|Drama|Family
+"11712";"Sanjuro";1962;96;80;Toshirō_Mifune|Tatsuya_Nakadai|Keiju_Kobayashi|Yûzô_Kayama|Reiko_Dan|Takashi_Shimura|Kamatari_Fujiwara|Takako_Irie|Masao_Shimizu;Drama|Action|Comedy
+"1578";"Raging Bull";1980;129;80;Robert_De_Niro|Joe_Pesci|Cathy_Moriarty|Frank_Vincent|Nicholas_Colasanto|Mario_Gallo|Joseph_Bono;Drama|History
+"1092";"The Third Man";1949;104;80;Joseph_Cotten|Alida_Valli|Orson_Welles|Trevor_Howard|Paul_Hörbiger|Ernst_Deutsch|Erich_Ponto|Siegfried_Breuer|Hedwig_Bleibtreu;Thriller|Mystery
+"862";"Toy Story";1995;81;80;Tom_Hanks|Tim_Allen|Don_Rickles|Jim_Varney|Wallace_Shawn|John_Ratzenberger|Annie_Potts|John_Morris|Erik_von_Detten;Animation|Adventure|Family|Comedy
+"627";"Trainspotting";1996;94;80;Ewan_McGregor|Ewen_Bremner|Jonny_Lee_Miller|Robert_Carlyle|Kelly_Macdonald|Kevin_McKidd|Peter_Mullan|James_Cosmo|Eileen_Nicholas;Drama|Crime
+"76";"Before Sunrise";1995;101;80;Ethan_Hawke|Julie_Delpy|Andrea_Eckert|Hanno_Pöschl|Haymon_Maria_Buttinger|Erni_Mangold|Tex_Rubinowitz|Dominik_Castell;Drama|Romance
+"24";"Kill Bill: Vol. 1";2003;111;80;Uma_Thurman|Lucy_Liu|Vivica_A._Fox|Daryl_Hannah|David_Carradine|Michael_Madsen|Julie_Dreyfus|Chiaki_Kuriyama|Shin'ichi_Chiba;Action|Crime
+"654";"On the Waterfront";1954;108;80;Marlon_Brando|Karl_Malden|Lee_J._Cobb|Rod_Steiger|Pat_Henning|Eva_Marie_Saint|Leif_Erickson|James_Westerfield|Tony_Galento;Crime|Drama
+"640";"Catch Me If You Can";2002;141;80;Leonardo_DiCaprio|Tom_Hanks|Christopher_Walken|Martin_Sheen|Nathalie_Baye|Amy_Adams|James_Brolin|Jennifer_Garner|Chris_Ellis;Drama|Crime
+"522402";"Finch";2021;115;80;Tom_Hanks|Caleb_Landry_Jones|Oscar_Avila|Lora_Martinez_Cunningham|Marie_Wagenman;Science_Fiction|Drama|Adventure
+"414419";"Kill Bill: The Whole Bloody Affair";2011;247;80;Uma_Thurman|Lucy_Liu|Vivica_A._Fox|Michael_Madsen|Daryl_Hannah|David_Carradine|Shin'ichi_Chiba|Julie_Dreyfus|Chiaki_Kuriyama;Action|Crime|Thriller
+"15383";"Army of Shadows";1969;145;80;Lino_Ventura|Paul_Meurisse|Jean_Pierre_Cassel|Simone_Signoret|Claude_Mann|Paul_Crauchet|Christian_Barbier|Alain_Dekok|Alain_Libolt;War|Drama|Thriller
+"38286";"Three Men and a Leg";1997;98;80;Aldo_Baglio|Giovanni_Storti|Giacomo_Poretti|Marina_Massironi|Carlo_Croccolo|Maria_Pia_Casilio|Luciana_Littizzetto|Gaetano_Amato;Comedy
+"501929";"The Mitchells vs. the Machines";2021;110;80;Abbi_Jacobson|Danny_McBride|Maya_Rudolph|Michael_Rianda|Eric_André|Olivia_Colman|Fred_Armisen|Beck_Bennett|Chrissy_Teigen;Animation|Adventure|Comedy
+"1580";"Rope";1948;81;80;James_Stewart|John_Dall|Farley_Granger|Edith_Evanson|Joan_Chandler|Cedric_Hardwicke|Constance_Collier|Douglas_Dick|Dick_Hogan;Crime|Drama|Thriller
+"70";"Million Dollar Baby";2004;132;80;Clint_Eastwood|Hilary_Swank|Morgan_Freeman|Jay_Baruchel|Mike_Colter|Lucia_Rijker|Brían_F._O'Byrne|Anthony_Mackie|Margo_Martindale;Drama
+"10515";"Castle in the Sky";1986;125;80;Keiko_Yokozawa|Mayumi_Tanaka|Minori_Terada|Ichiro_Nagai|Hiroshi_Ito|Machiko_Washio;Adventure|Fantasy|Animation|Action|Family|Romance
+"234";"The Cabinet of Dr. Caligari";1920;78;80;Werner_Krauß|Conrad_Veidt|Friedrich_Fehér|Lil_Dagover|Hans_Heinrich_von_Twardowski|Rudolf_Klein_Rogge;Drama|Horror|Thriller|Crime
+"21334";"Children of Heaven";1997;89;80;Reza_Naji;Drama|Family
+"458302";"Remi, Nobody's Boy";2018;109;80;Maleaume_Paquin|Daniel_Auteuil|Virginie_Ledoyen|Ludivine_Sagnier|Jonathan_Zaccaï|Jacques_Perrin|Albane_Masson|Zoe_Boyle|Nicholas_Rowe;Adventure|Family|Drama
+"41050";"La Notte";1961;122;80;Marcello_Mastroianni|Jeanne_Moreau|Monica_Vitti|Bernhard_Wicki|Rosy_Mazzacurati|Maria_Pia_Luzi;Drama|Romance
+"775";"A Trip to the Moon";1902;15;80;Georges_Méliès|Bleuette_Bernon;Adventure|Science_Fiction
+"110";"Three Colors: Red";1994;100;80;Irène_Jacob|Jean_Louis_Trintignant|Jean_Pierre_Lorit|Frédérique_Feder|Samuel_Le_Bihan|Marion_Stalens|Teco_Celio|Bernard_Escalon;Drama|Mystery|Romance
+"3777";"Throne of Blood";1957;108;80;Toshirō_Mifune|Isuzu_Yamada|Takashi_Shimura|Hiroshi_Tachikawa|Minoru_Chiaki|Takamaru_Sasaki|Gen_Shimizu|Kokuten_Kōdō;Drama|History
+"28971";"Limelight";1952;137;80;Charlie_Chaplin|Claire_Bloom|Nigel_Bruce|Buster_Keaton|Sydney_Chaplin|Norman_Lloyd|Andre_Eglevsky|Marjorie_Bennett|Wheeler_Dryden;Drama|Music|Romance
+"360814";"Dangal";2016;161;80;Aamir_Khan|Fatima_Sana_Shaikh|Sanya_Malhotra|Sakshi_Tanwar|Aparshakti_Khurana|Zaira_Wasim|Girish_Kulkarni|Vivan_Bhatena;Drama|Family|Comedy|Action
+"149";"Akira";1988;124;80;Mitsuo_Iwata|Nozomu_Sasaki|Mami_Koyama|Tessyo_Genda|Yuriko_Fuchizaki|Masaaki_Okura|Takeshi_Kusao;Animation|Science_Fiction|Action
+"405";"La Strada";1954;115;79;Anthony_Quinn|Giulietta_Masina|Richard_Basehart|Aldo_Silvani|Marcella_Rovere|Lidia_Venturini;Drama
+"438695";"Sing 2";2021;110;79;Matthew_McConaughey|Reese_Witherspoon|Scarlett_Johansson|Taron_Egerton|Bobby_Cannavale|Tori_Kelly|Nick_Kroll|Halsey|Spike_Jonze;Animation|Family
+"23128";"The Cove";2009;92;80;Isabel_Lucas|Hayden_Panettiere;Documentary
+"10404";"Raise the Red Lantern";1991;125;80;Gong_Li|Ma_Jingwu|He_Saifei|Cao_Cuifen|Kong_Lin|Shuyuan_Jin|Ding_Weimin|Cao_Zengyin;Drama
+"667520";"A Whisker Away";2020;104;79;Mirai_Shida|Natsuki_Hanae|Koichi_Yamadera|Hiroaki_Ogi|Minako_Kotobuki|Kensho_Ono|Susumu_Chiba|Ayako_Kawasumi|Sayaka_Ohara;Animation|Drama|Romance|Fantasy
+"160885";"Tel chi el telùn";1999;120;80;Aldo_Baglio|Giovanni_Storti|Giacomo_Poretti|Marina_Massironi;Comedy
+"523781";"Words on Bathroom Walls";2020;111;79;Charlie_Plummer|Molly_Parker|Walton_Goggins|Andy_García|Taylor_Russell|AnnaSophia_Robb|Beth_Grant|Devon_Bostick|Lobo_Sebastian;Drama|Romance
+"491480";"The Boy Who Harnessed the Wind";2019;113;79;Maxwell_Simba|Chiwetel_Ejiofor|Aïssa_Maïga|Lily_Banda|Joseph_Marcell|Lemogang_Tsipa|Noma_Dumezweni;Drama|History|Family
+"76203";"12 Years a Slave";2013;134;79;Chiwetel_Ejiofor|Michael_Fassbender|Lupita_Nyong'o|Benedict_Cumberbatch|Paul_Dano|Sarah_Paulson|Adepero_Oduye|Scoot_McNairy|Paul_Giamatti;Drama|History
+"10242";"What Ever Happened to Baby Jane?";1962;135;79;Bette_Davis|Joan_Crawford|Victor_Buono|Wesley_Addy|Julie_Allred|Marjorie_Bennett|Bert_Freed|Anna_Lee;Drama|Horror|Thriller
+"632322";"All My Life";2020;93;79;Jessica_Rothe|Harry_Shum_Jr.|Michael_Masini|Chrissie_Fit|Greg_Vrotsos|Ever_Carradine|Marielle_Scott|Jay_Pharoah|Kyle_Allen;Romance|Drama
+"14160";"Up";2009;96;79;Ed_Asner|Christopher_Plummer|Jordan_Nagai|Bob_Peterson|Delroy_Lindo|Jerome_Ranft|John_Ratzenberger|David_Kaye|Elie_Docter;Animation|Comedy|Family|Adventure
+"11010";"The Postman";1994;109;79;Massimo_Troisi|Philippe_Noiret|Maria_Grazia_Cucinotta|Renato_Scarpa|Linda_Moretti|Mariano_Rigillo|Anna_Bonaiuto|Sergio_Solli|Carlo_Di_Maio;Comedy|Drama|Romance
+"20722";"La Maison en Petits Cubes";2008;12;79;Masami_Nagasawa;Animation
+"5925";"The Great Escape";1963;173;79;Steve_McQueen|James_Garner|Richard_Attenborough|James_Donald|Charles_Bronson|Donald_Pleasence|James_Coburn|Hannes_Messemer|David_McCallum;Adventure|Drama|History|Thriller|War
+"745";"The Sixth Sense";1999;107;79;Bruce_Willis|Haley_Joel_Osment|Toni_Collette|Olivia_Williams|Donnie_Wahlberg|Mischa_Barton|Trevor_Morgan|Glenn_Fitzgerald|Bruce_Norris;Mystery|Thriller|Drama
+"920394";"My Father's Violin";2022;112;79;Engin_Altan_Düzyatan|Belçim_Bilgin|Selim_Erdoğan|Ayfer_Dönmez|Yiğit_Çakır|Erdem_Baş;Drama|Music
+"698948";"Thirteen Lives";2022;147;79;Viggo_Mortensen|Colin_Farrell|Joel_Edgerton|Tom_Bateman|Paul_Gleeson|Teeradon_Supapunpinyo;Drama|Thriller|Action|Adventure
+"158445";"Miracle in Cell No. 7";2013;127;79;Ryu_Seung_ryong|Park_Shin_hye|Kal_So_won|Jung_Jin_young|Oh_Dal_su|Park_Won_sang|Kim_Jung_tae|Jeong_Man_sik|Kim_Ki_chun;Drama|Comedy
+"142061";"Batman: The Dark Knight Returns, Part 2";2013;78;79;Peter_Weller|Ariel_Winter|David_Selby|Michael_Emerson|Mark_Valley|Grey_DeLisle|Frank_Welker|Dee_Bradley_Baker|Michael_McKean;Science_Fiction|Action|Animation|Mystery
+"916224";"Suzume";2022;123;80;Nanoka_Hara|Hokuto_Matsumura|Eri_Fukatsu|Shota_Sometani|Sairi_Ito|Kotone_Hanase|Kana_Hanazawa|Matsumoto_Hakuō_II|Ryunosuke_Kamiki;Animation|Drama|Adventure|Fantasy
+"455714";"Bad Genius";2017;130;79;Chutimon_Chuengcharoensukying|Eisaya_Hosuwan|Teeradon_Supapunpinyo|Chanon_Santinatornkul|Thaneth_Warakulnukroh|Ego_Mikitas|Sarinrat_Thomas|Sahajak_Boonthanakit;Drama|Crime|Thriller|Comedy
+"691179";"Friends: The Reunion";2021;104;79;Jennifer_Aniston|Courteney_Cox|Lisa_Kudrow|David_Schwimmer|Matt_LeBlanc|Matthew_Perry|James_Corden|Maggie_Wheeler|Tom_Selleck;Documentary
+"9323";"Ghost in the Shell";1995;82;79;Atsuko_Tanaka|Akio_Otsuka|Iemasa_Kayumi|Koichi_Yamadera|Yutaka_Nakano|Tamio_Ohki|Tessyo_Genda;Action|Animation|Science_Fiction
+"6977";"No Country for Old Men";2007;122;79;Josh_Brolin|Javier_Bardem|Tommy_Lee_Jones|Kelly_Macdonald|Woody_Harrelson|Garret_Dillahunt|Tess_Harper|Barry_Corbin|Stephen_Root;Crime|Drama|Thriller
+"152532";"Dallas Buyers Club";2013;117;79;Matthew_McConaughey|Jared_Leto|Jennifer_Garner|Denis_O'Hare|Steve_Zahn|Michael_O'Neill|Dallas_Roberts|Griffin_Dunne|Kevin_Rankin;Drama|History
+"329";"Jurassic Park";1993;127;79;Sam_Neill|Laura_Dern|Jeff_Goldblum|Richard_Attenborough|Bob_Peck|Martin_Ferrero|BD_Wong|Samuel_L._Jackson|Wayne_Knight;Adventure|Science_Fiction
+"81";"Nausicaä of the Valley of the Wind";1984;117;79;Sumi_Shimamoto|Ichiro_Nagai|Gorō_Naya|Youji_Matsuda|Yoshiko_Sakakibara|Iemasa_Kayumi|Hisako_Kyoda|Mahito_Tsujimura|Mina_Tominaga;Adventure|Animation|Fantasy
+"522212";"Just Mercy";2019;137;79;Michael_B._Jordan|Brie_Larson|Jamie_Foxx|O'Shea_Jackson_Jr.|Rafe_Spall|Rob_Morgan|Tim_Blake_Nelson|Rhoda_Griffis|J._Alphonse_Nicholson;Drama|Crime|History
+"78";"Blade Runner";1982;118;79;Harrison_Ford|Rutger_Hauer|Sean_Young|Edward_James_Olmos|M._Emmet_Walsh|Daryl_Hannah|William_Sanderson|Joe_Turkel;Science_Fiction|Drama|Thriller
+"610150";"Dragon Ball Super: Super Hero";2022;99;79;Masako_Nozawa|Toshio_Furukawa|Yuko_Minaguchi|Hiroshi_Kamiya|Mamoru_Miyano|Miyu_Irino|Ryota_Takeuchi|Aya_Hisakawa|Mayumi_Tanaka;Animation|Science_Fiction|Action
+"37797";"Whisper of the Heart";1995;111;79;Yoko_Honna|Issey_Takahashi|Takashi_Tachibana|Shigeru_Muroi|Minami_Takayama|Mayumi_Iizuka|Yorie_Yamashita|Keiju_Kobayashi|Naohisa_Inoue;Animation|Drama|Family
+"197";"Braveheart";1995;178;79;Mel_Gibson|Catherine_McCormack|Sophie_Marceau|Patrick_McGoohan|Angus_Macfadyen|Brendan_Gleeson|James_Robinson|James_Cosmo|Sean_McGinley;Action|Drama|History|War
+"20271";"Divorce Italian Style";1961;104;79;Marcello_Mastroianni|Daniela_Rocca|Stefania_Sandrelli|Leopoldo_Trieste|Lando_Buzzanca|Pietro_Tordi;Comedy
+"653567";"Miss Americana";2020;85;79;Taylor_Swift|Joe_Alwyn|Todrick_Hall|Brendon_Urie|Jack_Antonoff|Bobby_Berk|Jonathan_van_Ness|Karamo_Brown|Antoni_Porowski;Documentary|Music
+"682110";"My Octopus Teacher";2020;85;79;;Documentary
+"11314";"Koyaanisqatsi";1982;86;79;;Documentary
+"829";"Chinatown";1974;130;79;Jack_Nicholson|Faye_Dunaway|John_Huston|Perry_Lopez|John_Hillerman|Diane_Ladd|Roman_Polanski|Roy_Jenson|Richard_Bakalyan;Crime|Drama|Mystery|Thriller
+"662";"La Jetée";1962;28;79;Jean_Négroni;Romance|Science_Fiction
+"1646";"Freedom Writers";2007;123;79;Hilary_Swank|Scott_Glenn|Imelda_Staunton|Patrick_Dempsey|April_Lee_Hernandez|Robert_Wisdom|John_Benjamin_Hickey|Pat_Carroll|Hunter_Parrish;Crime|Drama
+"33";"Unforgiven";1992;130;79;Clint_Eastwood|Gene_Hackman|Morgan_Freeman|Jaimz_Woolvett|Richard_Harris|Anna_Levine_Thomson|Frances_Fisher|Saul_Rubinek|David_Mucci;Western
+"150540";"Inside Out";2015;95;79;Amy_Poehler|Phyllis_Smith|Bill_Hader|Kaitlyn_Dias|Richard_Kind|Lewis_Black|Mindy_Kaling|Diane_Lane|Kyle_MacLachlan;Animation|Family|Adventure|Drama|Comedy
+"10386";"The Iron Giant";1999;86;79;Vin_Diesel|Eli_Marienthal|Jennifer_Aniston|Harry_Connick_Jr.|James_Gammon|Cloris_Leachman|Christopher_McDonald|John_Mahoney|M._Emmet_Walsh;Family|Animation|Science_Fiction|Drama
+"85";"Raiders of the Lost Ark";1981;115;79;Harrison_Ford|Karen_Allen|Paul_Freeman|John_Rhys_Davies|Ronald_Lacey|Wolf_Kahler|Anthony_Higgins|Denholm_Elliott|Alfred_Molina;Adventure|Action
+"552532";"Charm City Kings";2020;125;79;Jahi_Di'Allo_Winston|Meek_Mill|Teyonah_Parris|William_Catlett|Kezii_Curtis|Donielle_T._Hansley_Jr.|Milan_Ray|Hero_Hunter;Drama
+"8290";"Don't Look Now... We're Being Shot At!";1966;132;79;Bourvil|Louis_de_Funès|Terry_Thomas|Claudio_Brook|Mike_Marshall|Marie_Dubois|Pierre_Bertin|Andréa_Parisy|Mary_Marquet;Comedy|War
+"679";"Aliens";1986;137;79;Sigourney_Weaver|Michael_Biehn|Lance_Henriksen|Bill_Paxton|Jenette_Goldstein|Carrie_Henn|Paul_Reiser|Mark_Rolston|William_Hope;Action|Thriller|Science_Fiction
+"615453";"Ne Zha";2019;110;79;Lü_Yanting|Joseph|Han_Mo|Chen_Hao|Lü_Qi|Yang_Wei|Zhang_Jiaming|Ren_Junpeng;Animation|Fantasy|Adventure
+"527774";"Raya and the Last Dragon";2021;107;79;Kelly_Marie_Tran|Awkwafina|Izaac_Wang|Gemma_Chan|Daniel_Dae_Kim|Benedict_Wong|Jona_Xiao|Sandra_Oh|Thalia_Tran;Animation|Family|Fantasy|Action|Adventure
+"183011";"Justice League: The Flashpoint Paradox";2013;75;79;Justin_Chambers|C._Thomas_Howell|Michael_B._Jordan|Kevin_McKidd|Kevin_Conroy|Dee_Bradley_Baker|Steve_Blum|Sam_Daly|Dana_Delany;Science_Fiction|Animation|Action|Adventure
+"515042";"Free Solo";2018;100;79;Alex_Honnold|Tommy_Caldwell|Jimmy_Chin;Documentary|Adventure
+"505262";"My Hero Academia: Two Heroes";2018;96;79;Daiki_Yamashita|Kenta_Miyake|Mirai_Shida|Katsuhisa_Namase|Nobuhiko_Okamoto|Ayane_Sakura|Kaito_Ishikawa|Yuki_Kaji|Marina_Inoue;Animation|Action|Adventure|Fantasy
+"594634";"Close to the Horizon";2019;117;79;Luna_Wedler|Jannik_Schümann|Luise_Befort|Victoria_Mayer|Stephan_Kampwirth|Denis_Moschitto|Frederick_Lau|Henry_Horn;Drama|Romance
+"2011";"Persepolis";2007;95;79;Chiara_Mastroianni|Danielle_Darrieux|Catherine_Deneuve|Simon_Abkarian|Gabrielle_Lopes_Benites|François_Jerosme|Tilly_Mandelbrot|Arié_Elmaleh;Animation|Drama
+"334533";"Captain Fantastic";2016;118;79;Viggo_Mortensen|Samantha_Isler|Annalise_Basso|Steve_Zahn|George_MacKay|Nicholas_Hamilton|Shree_Crooks|Charlie_Shotwell|Trin_Miller;Adventure|Drama
+"10674";"Mulan";1998;88;79;Ming_Na_Wen|Eddie_Murphy|BD_Wong|Miguel_Ferrer|Harvey_Fierstein|Freda_Foh_Shen|June_Foray|James_Hong|Miriam_Margolyes;Animation|Family|Adventure
+"316029";"The Greatest Showman";2017;105;79;Hugh_Jackman|Zac_Efron|Michelle_Williams|Rebecca_Ferguson|Zendaya|Keala_Settle|Yahya_Abdul_Mateen_II|Natasha_Liu_Bordizzo|Paul_Sparks;Drama
+"296096";"Me Before You";2016;110;79;Emilia_Clarke|Sam_Claflin|Janet_McTeer|Charles_Dance|Brendan_Coyle|Jenna_Coleman|Matthew_Lewis|Samantha_Spiro|Stephen_Peacocke;Drama|Romance
+"223";"Rebecca";1940;130;79;Laurence_Olivier|Joan_Fontaine|George_Sanders|Judith_Anderson|Nigel_Bruce|Reginald_Denny|C._Aubrey_Smith|Gladys_Cooper|Florence_Bates;Mystery|Drama|Thriller|Romance
+"3034";"Young Frankenstein";1974;106;79;Gene_Wilder|Teri_Garr|Marty_Feldman|Peter_Boyle|Cloris_Leachman|Madeline_Kahn|Kenneth_Mars|Richard_Haydn|Liam_Dunn;Comedy
+"671";"Harry Potter and the Philosopher's Stone";2001;152;79;Daniel_Radcliffe|Rupert_Grint|Emma_Watson|Richard_Harris|Tom_Felton|Alan_Rickman|Robbie_Coltrane|Maggie_Smith|Richard_Griffiths;Adventure|Fantasy
+"47796";"Mamma Roma";1962;110;79;Anna_Magnani|Ettore_Garofolo|Franco_Citti|Silvana_Corsini|Paolo_Volponi|Piero_Morgia;Drama
+"17295";"The Battle of Algiers";1966;121;79;Brahim_Hadjadj|Jean_Martin;Drama|War|History
+"843906";"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog";2021;72;79;Matthew_Lillard|Thea_White|Grey_DeLisle|Frank_Welker|Kate_Micucci|Jeff_Bennett|Paul_Schoeffler|Marty_Grabstein|Jeff_Bergman;Animation|Comedy|Mystery|Family|Fantasy
+"32085";"Vincent";1982;7;79;Vincent_Price;Animation|Fantasy
+"25364";"Ace in the Hole";1951;111;79;Kirk_Douglas|Jan_Sterling|Robert_Arthur|Porter_Hall|Frank_Cady|Richard_Benedict|Ray_Teal|Lewis_Martin|John_Berkes;Drama
+"3083";"Mr. Smith Goes to Washington";1939;129;79;James_Stewart|Jean_Arthur|Claude_Rains|Edward_Arnold|Guy_Kibbee|Thomas_Mitchell|Eugene_Pallette|Beulah_Bondi|H.B._Warner;Comedy|Drama
+"435129";"The Breadwinner";2017;94;79;Saara_Chaudry|Soma_Bhatia|Laara_Sadiq|Shaista_Latif|Ali_Badshah|Noorin_Gulamgaus;Animation|War|Drama
+"7984";"In the Name of the Father";1993;133;79;Daniel_Day_Lewis|Pete_Postlethwaite|Emma_Thompson|John_Lynch|Corin_Redgrave|Beatie_Edney|John_Benfield|Paterson_Joseph|Marie_Jones;Drama
+"7857";"Amarcord";1973;123;79;Bruno_Zanin|Armando_Brancia|Pupella_Maggio|Nando_Orfei|Magali_Noël|Antonino_Faà_di_Bruno;Comedy|Drama
+"122906";"About Time";2013;123;79;Domhnall_Gleeson|Rachel_McAdams|Bill_Nighy|Tom_Hollander|Margot_Robbie|Lydia_Wilson|Lindsay_Duncan|Richard_Cordery|Joshua_McGuire;Drama|Romance|Fantasy
+"331482";"Little Women";2019;135;79;Saoirse_Ronan|Florence_Pugh|Emma_Watson|Eliza_Scanlen|Laura_Dern|Timothée_Chalamet|Meryl_Streep|Tracy_Letts|Bob_Odenkirk;Drama|Romance|History
+"118340";"Guardians of the Galaxy";2014;121;79;Chris_Pratt|Zoe_Saldaña|Dave_Bautista|Vin_Diesel|Bradley_Cooper|Lee_Pace|Michael_Rooker|Karen_Gillan|Djimon_Hounsou;Action|Science_Fiction|Adventure
+"603692";"John Wick: Chapter 4";2023;170;79;Keanu_Reeves|Donnie_Yen|Bill_Skarsgård|Ian_McShane|Laurence_Fishburne|Lance_Reddick|Clancy_Brown|Hiroyuki_Sanada|Shamier_Anderson;Action|Thriller|Crime
+"60243";"A Separation";2011;123;79;Leila_Hatami|Payman_Maadi|Shahab_Hosseini|Sare_Bayat|Sarina_Farhadi|Babak_Karimi|Ali_Asghar_Shahbazi|Shirin_Yazdanbakhsh;Drama
+"3870";"1900";1976;317;79;Robert_De_Niro|Gérard_Depardieu|Dominique_Sanda|Stefania_Sandrelli|Donald_Sutherland|Burt_Lancaster|Francesca_Bertini|Laura_Betti|Werner_Bruhns;Drama|History
+"1402";"The Pursuit of Happyness";2006;117;79;Will_Smith|Jaden_Smith|Thandiwe_Newton|Brian_Howe|James_Karen|Kurt_Fuller|Dan_Castellaneta|Joe_Nuñez|David_Fine;Drama
+"354857";"Regular Show: The Movie";2015;70;79;J.G._Quintel|Mark_Hamill|Sam_Marin|William_Salyers|David_Koechner|Jason_Mantzoukas|Ali_Hillis|Eddie_Pepitone;Animation|Comedy|Science_Fiction|TV_Movie
+"194";"Amélie";2001;122;79;Audrey_Tautou|Mathieu_Kassovitz|Rufus|Lorella_Cravotta|Serge_Merlin|Jamel_Debbouze|Clotilde_Mollet|Claire_Maurier|Isabelle_Nanty;Comedy|Romance
+"585511";"Luck";2022;105;79;Eva_Noblezada|Simon_Pegg|Jane_Fonda|Whoopi_Goldberg|Flula_Borg|Lil_Rel_Howery|Colin_O'Donoghue|John_Ratzenberger|Adelynn_Spoon;Animation|Adventure|Comedy|Fantasy
+"31442";"Ivan's Childhood";1962;95;79;Nikolay_Burlyaev|Valentin_Zubkov|Nikolay_Grinko|Yevgeni_Zharikov|Valentina_Malyavina|Irma_Raush|Stepan_Krylov|Dmitri_Milyutenko|Andrei_Konchalovsky;Drama|War
+"198";"To Be or Not to Be";1942;99;79;Carole_Lombard|Jack_Benny|Robert_Stack|Felix_Bressart|Lionel_Atwill|Stanley_Ridges|Sig_Ruman|Tom_Dugan|Charles_Halton;Comedy|War
+"949";"Heat";1995;170;79;Val_Kilmer|Robert_De_Niro|Al_Pacino|Jon_Voight|Tom_Sizemore|Diane_Venora|Amy_Brenneman|Ashley_Judd|Kevin_Gage;Action|Crime|Drama|Thriller
+"752";"V for Vendetta";2006;132;79;Natalie_Portman|Hugo_Weaving|Stephen_Rea|Stephen_Fry|John_Hurt|Tim_Pigott_Smith|Natasha_Wightman|Rupert_Graves|Roger_Allam;Action|Thriller|Science_Fiction
+"801058";"Seaspiracy";2021;89;79;Sylvia_Earle|Paul_de_Gelder|George_Monbiot;Documentary
+"24167";"Two Women";1960;100;79;Sophia_Loren|Jean_Paul_Belmondo|Raf_Vallone|Eleonora_Brown|Carlo_Ninchi|Andrea_Checchi|Pupella_Maggio|Emma_Baron|Antonella_Della_Porta;Drama|War
+"573164";"An Egg Rescue";2021;89;79;Bruno_Bichir|Maite_Perroni|Carlos_Espejel|Angélica_Vale|Jesús_Ochoa;Animation|Comedy|Adventure|Family
+"210577";"Gone Girl";2014;149;79;Ben_Affleck|Rosamund_Pike|Neil_Patrick_Harris|Tyler_Perry|Carrie_Coon|Kim_Dickens|Patrick_Fugit|Lisa_Banes|David_Clennon;Mystery|Thriller|Drama
+"597";"Titanic";1997;194;79;Leonardo_DiCaprio|Kate_Winslet|Billy_Zane|Kathy_Bates|Frances_Fisher|Gloria_Stuart|Victor_Garber|Bill_Paxton|Bernard_Hill;Drama|Romance
+"191720";"Jodorowsky's Dune";2013;90;79;Alejandro_Jodorowsky|H._R._Giger|Brontis_Jodorowsky|Nicolas_Winding_Refn|Amanda_Lear|Richard_Stanley|Devin_Faraci|Michel_Seydoux;Documentary
+"313369";"La La Land";2016;129;79;Ryan_Gosling|Emma_Stone|John_Legend|Rosemarie_DeWitt|J.K._Simmons|Amiée_Conn|Terry_Walters|Thom_Shelton|Cinda_Adams;Comedy|Drama|Romance|Music
+"1892";"Return of the Jedi";1983;135;79;Mark_Hamill|Harrison_Ford|Carrie_Fisher|Billy_Dee_Williams|Anthony_Daniels|Peter_Mayhew|Sebastian_Shaw|Ian_McDiarmid|Frank_Oz;Adventure|Action|Science_Fiction
+"10997";"Farewell My Concubine";1993;171;79;Leslie_Cheung|Zhang_Feng_Yi|Gong_Li|Jiang_Wenli|Ge_You|Lu_Qi|Ying_Da|Zhi_Yitong;Drama
+"804";"Roman Holiday";1953;119;79;Audrey_Hepburn|Gregory_Peck|Eddie_Albert|Hartley_Power|Harcourt_Williams|Margaret_Rawlings|Tullio_Carminati|Paolo_Carlini|Claudio_Ermelli;Romance|Comedy|Drama
+"369557";"Sing Street";2016;106;79;Ferdia_Walsh_Peelo|Lucy_Boynton|Maria_Doyle_Kennedy|Aidan_Gillen|Jack_Reynor|Kelly_Thornton|Ben_Carolan|Mark_McKenna|Percy_Chamburuka;Comedy|Romance|Drama|Music
+"579245";"The Specials";2019;114;79;Vincent_Cassel|Reda_Kateb|Hélène_Vincent|Bryan_Mialoundama|Alban_Ivanov|Benjamin_Lesieur|Marco_Locatelli|Catherine_Mouchet|Frédéric_Pierrot;Comedy|Drama
+"16";"Dancer in the Dark";2000;141;79;Björk|Catherine_Deneuve|David_Morse|Peter_Stormare|Joel_Grey|Cara_Seymour|Jean_Marc_Barr|Vincent_Paterson;Drama|Crime
+"180147";"We Are the Nobles";2013;108;79;Gonzalo_Vega|Luis_Gerardo_Méndez|Karla_Souza|Juan_Pablo_Gil|Ianis_Guerrero|Mario_Haddad|Karla_Sofía_Gascón|Alberto_Zeni;Comedy
+"13398";"Tokyo Godfathers";2003;93;79;Aya_Okamoto|Yoshiaki_Umegaki|Tohru_Emori|Satomi_Korogi|Mamiko_Noto|Ryūji_Saikachi|Kyoko_Terase|Rikiya_Koyama|Hiroya_Ishimaru;Animation|Drama|Comedy
+"508943";"Luca";2021;95;79;Jacob_Tremblay|Jack_Dylan_Grazer|Emma_Berman|Saverio_Raimondo|Maya_Rudolph|Marco_Barricelli|Jim_Gaffigan|Peter_Sohn;Animation|Comedy|Fantasy|Adventure|Family
+"26317";"Man with a Movie Camera";1929;68;79;Mikhail_Kaufman;Documentary
+"503314";"Dragon Ball Super: Broly";2018;99;79;Masako_Nozawa|Aya_Hisakawa|Ryou_Horikawa|Toshio_Furukawa|Takeshi_Kusao|Ryusei_Nakao|Koichi_Yamadera|Masakazu_Morita|Ryuuzaburou_Ootomo;Action|Science_Fiction|Animation
+"250658";"The Internet's Own Boy: The Story of Aaron Swartz";2014;105;79;Aaron_Swartz|Tim_Berners_Lee|Cory_Doctorow|Lawrence_Lessig;Documentary|Crime
+"3078";"It Happened One Night";1934;105;79;Clark_Gable|Claudette_Colbert|Walter_Connolly|Roscoe_Karns|Jameson_Thomas|Alan_Hale|Arthur_Hoyt|Blanche_Friderici|Charles_C._Wilson;Comedy|Romance
+"937278";"A Man Called Otto";2022;126;79;Tom_Hanks|Mariana_Treviño|Rachel_Keller|Manuel_Garcia_Rulfo|Cameron_Britton|Kailey_Hyman|Mike_Birbiglia|Elle_Chapman|Joe_Fishel;Comedy|Drama
+"556901";"Teen Titans Go! vs. Teen Titans";2019;76;79;Scott_Menville|Hynden_Walch|Khary_Payton|Tara_Strong|Greg_Cipes|Kevin_Michael_Richardson|Robert_Morse|Grey_DeLisle|Rhys_Darby;Action|Animation
+"1394";"Nostalgia";1983;126;79;Oleg_Yankovskiy|Erland_Josephson|Domiziana_Giordano|Patrizia_Terreno|Laura_De_Marchi|Delia_Boccardo|Milena_Vukotić;Drama|Romance
+"827";"Diabolique";1955;117;79;Véra_Clouzot|Simone_Signoret|Jean_Brochard|Pierre_Larquey|Michel_Serrault|Paul_Meurisse|Charles_Vanel|Yves_Marie_Maurin|Georges_Poujouly;Drama|Horror|Thriller
+"11036";"The Notebook";2004;123;79;Rachel_McAdams|Ryan_Gosling|Gena_Rowlands|James_Garner|Sam_Shepard|Joan_Allen|James_Marsden|David_Thornton|Kevin_Connolly;Romance|Drama
+"29455";"Winter Light";1963;80;79;Gunnar_Björnstrand|Ingrid_Thulin|Gunnel_Lindblom|Max_von_Sydow|Allan_Edwall|Kolbjörn_Knudsen|Olof_Thunberg|Elsa_Ebbesen_Thornblad|Tor_Borong;Drama
+"393";"Kill Bill: Vol. 2";2004;136;79;Uma_Thurman|David_Carradine|Daryl_Hannah|Michael_Madsen|Gordon_Liu_Chia_hui|Michael_Parks|Perla_Haney_Jardine|Larry_Bishop|Samuel_L._Jackson;Action|Crime|Thriller
+"83564";"La luna";2012;7;79;Tony_Fucile;Animation|Family
+"48035";"Ordet";1955;125;79;Henrik_Malberg|Birgitte_Federspiel|Emil_Hass_Christensen|Preben_Lerdorff_Rye|Ejner_Federspiel;Drama
+"404378";"A Street Cat Named Bob";2016;103;79;Luke_Treadaway|Ruta_Gedmintas|Joanne_Froggatt|Anthony_Stewart_Head|Caroline_Goodall|Beth_Goddard|Darren_Evans|Ruth_Sheen|Nina_Wadia;Family|Drama
+"11293";"Paper Moon";1973;102;79;Ryan_O'Neal|Tatum_O'Neal|Madeline_Kahn|John_Hillerman|Jessie_Lee_Fulton|Noble_Willingham|Randy_Quaid|P.J._Johnson;Comedy|Crime|Drama
+"3112";"The Night of the Hunter";1955;93;79;Robert_Mitchum|Shelley_Winters|Lillian_Gish|James_Gleason|Evelyn_Varden|Peter_Graves|Don_Beddoe|Billy_Chapin|Sally_Jane_Bruce;Crime|Drama|Thriller
+"631";"Sunrise: A Song of Two Humans";1927;94;79;George_O’Brien|Janet_Gaynor|Margaret_Livingston|J._Farrell_MacDonald|Jane_Winton|Arthur_Housman|Eddie_Boland;Drama|Romance
+"301";"Rio Bravo";1959;141;79;John_Wayne|Dean_Martin|Ricky_Nelson|Angie_Dickinson|Walter_Brennan|Ward_Bond|John_Russell|Pedro_Gonzalez_Gonzalez|Estelita_Rodriguez;Western
+"379170";"Sherlock: The Abominable Bride";2016;90;79;Benedict_Cumberbatch|Martin_Freeman|Una_Stubbs|Rupert_Graves|Mark_Gatiss|Andrew_Scott|Louise_Brealey|Amanda_Abbington|Jonathan_Aris;Crime|Drama|Mystery|TV_Movie
+"52629";"El Infierno";2010;145;79;Damián_Alcázar|Joaquín_Cosío|Ernesto_Gómez_Cruz|María_Rojo|Elizabeth_Cervantes|Jorge_Zárate|Salvador_Sánchez|Daniel_Giménez_Cacho|Angelina_Peláez;Drama|Crime|Comedy
+"25538";"Yi Yi";2000;173;79;Wu_Nien_Jen|Kelly_Lee|Jonathan_Chang|Issey_Ogata|Elaine_Jin|Hsi_Sheng_Chen|Su_Yun_Ko|Tao_Chuang_Cheng|Shu_shen_Hsiao;Drama
+"22596";"Safety Last!";1923;74;79;Harold_Lloyd|Mildred_Davis|Bill_Strother|Noah_Young|Westcott_Clarke|Roy_Brooks|Mickey_Daniels|Richard_Daniels;Comedy|Romance|Thriller
+"833";"Umberto D.";1952;91;79;Carlo_Battisti|Maria_Pia_Casilio|Lina_Gennari|Memmo_Carotenuto|Lamberto_Maggiorani;Drama
+"776305";"Belle";2021;122;79;Kaho_Nakamura|Ryo_Narita|Shota_Sometani|Tina_Tamashiro|Lilas_Ikuta|Ryoko_Moriyama|Michiko_Shimizu|Fuyumi_Sakamoto|Yoshimi_Iwasaki;Animation|Science_Fiction|Family
+"275";"Fargo";1996;98;79;Frances_McDormand|William_H._Macy|Peter_Stormare|Steve_Buscemi|John_Carroll_Lynch|Harve_Presnell|Kristin_Rudrüd|Bruce_Bohne|Steve_Reevis;Crime|Drama|Thriller
+"430424";"See You Up There";2017;113;79;Nahuel_Pérez_Biscayart|Albert_Dupontel|Laurent_Lafitte|Niels_Arestrup|Émilie_Dequenne|Mélanie_Thierry|Héloïse_Balster|Philippe_Uchan|André_Marcon;Drama|Crime|War
+"158999";"Blackfish";2013;83;79;Ken_Balcomb;Documentary
+"934";"Rififi";1955;118;79;Jean_Servais|Carl_Möhner|Robert_Manuel|Janine_Darcey|Pierre_Grasset|Robert_Hossein|Marcel_Lupovici|Dominique_Maurin|Magali_Noël;Drama|Action|Crime
+"381341";"Perfect Strangers";2016;97;79;Giuseppe_Battiston|Anna_Foglietta|Marco_Giallini|Edoardo_Leo|Valerio_Mastandrea|Alba_Rohrwacher|Kasia_Smutniak|Benedetta_Porcaroli|Elisabetta_De_Palo;Comedy|Drama
+"801335";"Girl in the Basement";2021;88;79;Judd_Nelson|Stefanie_Scott|Joely_Fisher|Braxton_Bjerken|Kim_Rosen|Emily_Topper|Emma_Myers;Crime|Thriller|TV_Movie
+"505192";"Shoplifters";2018;120;79;Lily_Franky|Sakura_Ando|Mayu_Matsuoka|Kairi_Jo|Miyu_Sasaki|Kirin_Kiki|Sosuke_Ikematsu|Naoto_Ogata|Yôko_Moriguchi;Drama|Family|Crime|Thriller
+"266856";"The Theory of Everything";2014;123;79;Eddie_Redmayne|Felicity_Jones|Charlie_Cox|Emily_Watson|Simon_McBurney|David_Thewlis|Maxine_Peake|Harry_Lloyd|Tom_Prior;Drama|Romance
+"56231";"The Working Class Goes to Heaven";1971;113;79;Gian_Maria_Volonté|Mariangela_Melato|Salvo_Randone|Gino_Pernice|Luigi_Diberti|Mietta_Albertini|Donato_Castellaneta|Adriano_Amidei_Migliano|Guerrino_Crivello;Drama
+"549559";"Apollo 11";2019;93;79;Neil_Armstrong|Buzz_Aldrin|Michael_Collins|Walter_Cronkite|Charlie_Duke;Documentary|History
+"152601";"Her";2013;126;79;Joaquin_Phoenix|Scarlett_Johansson|Amy_Adams|Rooney_Mara|Chris_Pratt|Olivia_Wilde|Matt_Letscher|Portia_Doubleday|Spike_Jonze;Romance|Science_Fiction|Drama
+"399174";"Isle of Dogs";2018;101;79;Bryan_Cranston|Koyu_Rankin|Bob_Balaban|Edward_Norton|Bill_Murray|Jeff_Goldblum|Kunichi_Nomura|Fisher_Stevens|Akira_Takayama;Adventure|Comedy|Animation
