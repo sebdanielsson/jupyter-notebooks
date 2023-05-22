@@ -10,7 +10,9 @@
 		"extensions": [
 			"ms-toolsai.jupyter",
 			"GitHub.copilot",
-			"ms-python.autopep8"
+			"ms-python.autopep8",
+			"ms-vsliveshare.vsliveshare",
+			"GitHub.copilot-nightly"
 		]
 	}
 }
