@@ -17,3 +17,7 @@ spacy
 nltk
 textblob
 contractions
+
+# misc
+openai
+python-dotenv
