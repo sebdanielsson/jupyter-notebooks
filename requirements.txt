@@ -21,3 +21,4 @@ contractions
 # misc
 openai
 python-dotenv
+notebook
