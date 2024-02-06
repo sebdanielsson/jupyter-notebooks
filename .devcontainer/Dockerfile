@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/python:3.11-bullseye
+FROM mcr.microsoft.com/devcontainers/python:3.12-bullseye
 
 RUN apt update && apt upgrade -y && apt install ffmpeg libmtdev1 -y
 
