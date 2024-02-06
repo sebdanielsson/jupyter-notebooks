@@ -1,24 +1,23 @@
-# lab 1-3
 ipykernel
+notebook
+python-dotenv
+
+beautifulsoup4
+bs4
+contractions
+kivy
+kivymd
 matplotlib
+mesa
+nltk
 numpy
 openpyxl
 pandas
+pmdarima
+requests
 scikit-learn
 seaborn
-statsmodels
-
-# lab 4
-bs4
-requests
-
-# lab 5
 spacy
-nltk
+spade
+statsmodels
 textblob
-contractions
-
-# misc
-openai
-python-dotenv
-notebook
