@@ -21,7 +21,6 @@ class HomeScreen(Screen):
         flname = self.ids.flname.text
         age = self.ids.age.text
         salary = self.ids.salary.text
-        print(salary)
         json_data = '{"Table1":{"Name": "'+flname+'", "Age": "'+age+'", "Salary": "'+salary+'"}}'
         res=requests.patch(url=self.firebase_url, json=json.loads(json_data))
         print(res)
